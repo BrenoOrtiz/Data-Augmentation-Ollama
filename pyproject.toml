@@ -1,0 +1,15 @@
+[project]
+name = "data-augmentation-ollama"
+version = "0.1.0"
+description = "Data augmentation with local Ollama LLMs for TinyBERT sentiment classification on Financial PhraseBank"
+requires-python = ">=3.13"
+dependencies = [
+    "ollama>=0.3",
+    "pandas>=2.2",
+    "scikit-learn>=1.5",
+    "tqdm>=4.66",
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["src*"]
