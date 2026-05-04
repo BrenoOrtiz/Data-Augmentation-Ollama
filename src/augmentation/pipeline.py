@@ -101,20 +101,26 @@ def _generate_scenario(
                         )
                         break
 
-    synthetic_df = pd.DataFrame(records)
+    synthetic_columns = ["text", "label", "sentiment", "source", "model"]
+    synthetic_df = pd.DataFrame(records, columns=synthetic_columns)
 
     original_part = restricted_df.copy()
+    if "label" not in original_part.columns:
+        original_part["label"] = original_part["sentiment"].map(_LABEL_TO_ID)
     original_part["source"] = "original"
     original_part["model"] = "—"
+    original_part = original_part[synthetic_columns]
 
+    frames = [df for df in (original_part, synthetic_df) if not df.empty]
     augmented_df = (
-        pd.concat([original_part, synthetic_df], ignore_index=True)
+        pd.concat(frames, ignore_index=True)
+        .dropna(subset=["text", "label"])
+        .assign(label=lambda df: df["label"].astype(int))
         .sample(frac=1, random_state=SEED)
         .reset_index(drop=True)
-        .assign(label=lambda df: df["label"].astype(int))
     )
 
-    return augmented_df, synthetic_df
+    return augmented_df, synthetic_df, original_part
 
 
 # ---------------------------------------------------------------------------
@@ -157,10 +163,11 @@ def run_augmentation_pipeline(train_df: pd.DataFrame) -> pd.DataFrame:
                 len(train_df),
             )
 
-            augmented_df, synthetic_df = _generate_scenario(train_df, model, ratio)
+            augmented_df, synthetic_df, restricted_df = _generate_scenario(
+                train_df, model, ratio
+            )
 
             # Restricted (real-only) set — useful as a no-augmentation baseline
-            restricted_df = restrict_training_data(train_df, ratio)
             restr_path = model_dir / f"train_restricted_{ratio_tag}.csv"
             restricted_df.to_csv(restr_path, index=False)
 
