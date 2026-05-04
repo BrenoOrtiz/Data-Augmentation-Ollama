@@ -1,3 +1,4 @@
+import copy
 import logging
 from pathlib import Path
 
@@ -6,20 +7,18 @@ import pandas as pd
 import torch
 from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score
 from transformers import (
-    AutoModelForSequenceClassification,
-    AutoTokenizer,
+    PreTrainedModel,
+    PreTrainedTokenizerBase,
     Trainer,
     TrainingArguments,
 )
 
 from config import (
     EVAL_BATCH_SIZE,
-    LABEL_NAMES,
     LEARNING_RATE,
     MAX_SEQ_LENGTH,
     NUM_EPOCHS,
     SEED,
-    TINYBERT_MODEL,
     TRAIN_BATCH_SIZE,
     WARMUP_RATIO,
     WEIGHT_DECAY,
@@ -27,9 +26,6 @@ from config import (
 from src.training.dataset import SentimentDataset
 
 logger = logging.getLogger(__name__)
-
-_ID2LABEL = {v: k for k, v in LABEL_NAMES.items()}
-_LABEL2ID = dict(LABEL_NAMES)
 
 
 def _compute_metrics(eval_pred) -> dict[str, float]:
@@ -47,24 +43,24 @@ def _compute_metrics(eval_pred) -> dict[str, float]:
 def finetune_tinybert(
     train_df: pd.DataFrame,
     test_df: pd.DataFrame,
+    tokenizer: PreTrainedTokenizerBase,
+    base_model: PreTrainedModel,
+    initial_state: dict,
     output_dir: Path,
     run_name: str,
 ) -> dict[str, float]:
     """
     Fine-tune TinyBERT on `train_df`, evaluate on `test_df`.
 
-    Returns a metrics dict produced by `_compute_metrics` (plus eval loss).
-    The trained model + tokenizer are saved to `output_dir`.
+    The caller passes a single `tokenizer` + `base_model` instance that is
+    reused across runs. We reset the model to `initial_state` (a snapshot of
+    its weights right after `from_pretrained`) before every call so each run
+    starts from identical initial parameters — fair comparison.
     """
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    tokenizer = AutoTokenizer.from_pretrained(TINYBERT_MODEL)
-    model = AutoModelForSequenceClassification.from_pretrained(
-        TINYBERT_MODEL,
-        num_labels=len(LABEL_NAMES),
-        id2label=_ID2LABEL,
-        label2id=_LABEL2ID,
-    )
+    model = base_model
+    model.load_state_dict(copy.deepcopy(initial_state))
 
     train_ds = SentimentDataset(train_df, tokenizer, MAX_SEQ_LENGTH)
     eval_ds = SentimentDataset(test_df, tokenizer, MAX_SEQ_LENGTH)

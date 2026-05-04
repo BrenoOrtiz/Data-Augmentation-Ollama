@@ -1,14 +1,18 @@
+import copy
 import logging
 
 import pandas as pd
+from transformers import AutoModelForSequenceClassification, AutoTokenizer
 
 from config import (
     AUGMENTATION_RATIOS,
     GENERATED_DIR,
+    LABEL_NAMES,
     MODELS_DIR,
     OLLAMA_MODELS,
     RAW_DIR,
     RESULTS_DIR,
+    TINYBERT_MODEL,
     TRAIN_VARIANTS,
 )
 from src.training.finetune import finetune_tinybert
@@ -47,6 +51,21 @@ def run_finetuning_pipeline() -> pd.DataFrame:
     test_df = _load_test_set()
     logger.info("Loaded test set: %d samples", len(test_df))
 
+    # Load tokenizer + base model ONCE. Repeated `from_pretrained` calls in the
+    # same process (a) reuse a httpx client that gets closed and (b) on Windows
+    # without Developer Mode trigger symlink permission errors. We snapshot the
+    # initial weights so each run resets to the same starting point.
+    logger.info("Loading %s …", TINYBERT_MODEL)
+    id2label = {v: k for k, v in LABEL_NAMES.items()}
+    tokenizer = AutoTokenizer.from_pretrained(TINYBERT_MODEL)
+    base_model = AutoModelForSequenceClassification.from_pretrained(
+        TINYBERT_MODEL,
+        num_labels=len(LABEL_NAMES),
+        id2label=id2label,
+        label2id=dict(LABEL_NAMES),
+    )
+    initial_state = copy.deepcopy(base_model.state_dict())
+
     rows: list[dict] = []
 
     for llm in OLLAMA_MODELS:
@@ -77,6 +96,9 @@ def run_finetuning_pipeline() -> pd.DataFrame:
                 metrics = finetune_tinybert(
                     train_df=train_df,
                     test_df=test_df,
+                    tokenizer=tokenizer,
+                    base_model=base_model,
+                    initial_state=initial_state,
                     output_dir=output_dir,
                     run_name=run_name,
                 )
