@@ -5,8 +5,8 @@ from pathlib import Path
 # ---------------------------------------------------------------------------
 OLLAMA_MODELS = [
     "llama3.1:latest",
-    "mistral:7b",
-    "phi3.5:latest",
+    # "mistral:7b",
+   # "phi3.5:latest",
 ]
 
 # ---------------------------------------------------------------------------
@@ -32,6 +32,21 @@ ROOT_DIR = Path(__file__).parent
 DATA_DIR = ROOT_DIR / "data"
 RAW_DIR = DATA_DIR / "raw"
 GENERATED_DIR = DATA_DIR / "generated"
+RESULTS_DIR = ROOT_DIR / "results"
+MODELS_DIR = ROOT_DIR / "models"
+
+# ---------------------------------------------------------------------------
+# TinyBERT fine-tuning settings
+# ---------------------------------------------------------------------------
+TINYBERT_MODEL = "huawei-noah/TinyBERT_General_4L_312D"
+MAX_SEQ_LENGTH = 128
+NUM_EPOCHS = 4
+TRAIN_BATCH_SIZE = 32
+EVAL_BATCH_SIZE = 64
+LEARNING_RATE = 5e-5
+WEIGHT_DECAY = 0.01
+WARMUP_RATIO = 0.1
+TRAIN_VARIANTS = ("restricted", "augmented")
 
 # ---------------------------------------------------------------------------
 # Dataset (local file)
