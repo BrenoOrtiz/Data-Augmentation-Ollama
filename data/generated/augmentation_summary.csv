@@ -1,0 +1,10 @@
+model,scenario,real_samples,synthetic_samples,total_samples,original_train_size
+llama3.1:latest,10pct,2482,277,2759,2758
+llama3.1:latest,25pct,2069,692,2761,2758
+llama3.1:latest,50pct,1378,1380,2758,2758
+mistral:7b,10pct,2482,277,2759,2758
+mistral:7b,25pct,2069,692,2761,2758
+mistral:7b,50pct,1378,1380,2758,2758
+phi3.5:latest,10pct,2482,277,2759,2758
+phi3.5:latest,25pct,2069,692,2761,2758
+phi3.5:latest,50pct,1378,1380,2758,2758

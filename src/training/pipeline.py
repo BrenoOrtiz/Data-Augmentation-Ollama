@@ -38,6 +38,7 @@ def run_finetuning_pipeline() -> pd.DataFrame:
     Fine-tune TinyBERT for every (LLM × ratio × variant) combination.
 
     Variants:
+      - baseline_full: full real training set (no removal, no augmentation)
       - restricted: real-only, (1 - ratio) * N samples (no augmentation baseline)
       - augmented:  real (1 - ratio)*N + synthetic ratio*N  → total N
 
@@ -66,7 +67,54 @@ def run_finetuning_pipeline() -> pd.DataFrame:
     )
     initial_state = copy.deepcopy(base_model.state_dict())
 
+    results_csv = RESULTS_DIR / "finetuning_results.csv"
     rows: list[dict] = []
+    done: set[tuple[str, str, str]] = set()
+    if results_csv.exists():
+        prev = pd.read_csv(results_csv)
+        rows = prev.to_dict(orient="records")
+        done = {(str(r["llm"]), str(r["variant"]), str(r["ratio"])) for r in rows}
+        logger.info("Resuming — %d run(s) already in %s", len(done), results_csv)
+
+    # Baseline: train on the full real dataset (no augmentation, no removal).
+    full_train_path = RAW_DIR / "train_full.csv"
+    if full_train_path.exists():
+        run_name = "baseline__full"
+        output_dir = MODELS_DIR / "baseline" / "full"
+        baseline_key = ("-", "baseline_full", "0pct")
+
+        if baseline_key in done:
+            logger.info("Skipping %s — already in results CSV.", run_name)
+        else:
+            logger.info("\n%s", "=" * 70)
+            logger.info("Run: %s (full real dataset baseline)", run_name)
+            logger.info("Train file: %s", full_train_path)
+            logger.info("%s", "=" * 70)
+
+            train_df = pd.read_csv(full_train_path)
+            metrics = finetune_tinybert(
+                train_df=train_df,
+                test_df=test_df,
+                tokenizer=tokenizer,
+                base_model=base_model,
+                initial_state=initial_state,
+                output_dir=output_dir,
+                run_name=run_name,
+            )
+
+            rows.append(
+                {
+                    "llm": "-",
+                    "variant": "baseline_full",
+                    "ratio": "0pct",
+                    "train_size": len(train_df),
+                    **{k: round(float(v), 4) for k, v in metrics.items()},
+                }
+            )
+            done.add(baseline_key)
+            pd.DataFrame(rows).to_csv(results_csv, index=False)
+    else:
+        logger.warning("Baseline skipped — %s not found.", full_train_path)
 
     for llm in OLLAMA_MODELS:
         slug = _slug(llm)
@@ -82,6 +130,11 @@ def run_finetuning_pipeline() -> pd.DataFrame:
                 csv_path = gen_dir / f"train_{variant}_{ratio_tag}.csv"
                 if not csv_path.exists():
                     logger.warning("Missing %s — skipping.", csv_path)
+                    continue
+
+                key = (llm, variant, ratio_tag)
+                if key in done:
+                    logger.info("Skipping %s/%s_%s — already in results CSV.", llm, variant, ratio_tag)
                     continue
 
                 run_name = f"{slug}__{variant}_{ratio_tag}"
@@ -112,12 +165,11 @@ def run_finetuning_pipeline() -> pd.DataFrame:
                         **{k: round(float(v), 4) for k, v in metrics.items()},
                     }
                 )
+                done.add(key)
 
                 # Persist incrementally so a crash doesn't lose results.
-                pd.DataFrame(rows).to_csv(
-                    RESULTS_DIR / "finetuning_results.csv", index=False
-                )
+                pd.DataFrame(rows).to_csv(results_csv, index=False)
 
     summary_df = pd.DataFrame(rows)
-    logger.info("\nFinetuning results saved to %s", RESULTS_DIR / "finetuning_results.csv")
+    logger.info("\nFinetuning results saved to %s", results_csv)
     return summary_df

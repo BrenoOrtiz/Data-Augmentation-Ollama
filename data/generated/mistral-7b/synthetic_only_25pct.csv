@@ -1,0 +1,699 @@
+text,label,sentiment,source,model
+Amazon announces the launch of a new sustainability initiative focused on reducing packaging waste by 2024.,1,neutral,synthetic,mistral:7b
+"Citigroup announces the appointment of Jane Thompson as its new Chief Risk Officer, effective immediately.",1,neutral,synthetic,mistral:7b
+Tech giant Google announces the launch of a new cloud-based productivity suite for small businesses.,1,neutral,synthetic,mistral:7b
+"XYZ Corporation announces the appointment of Jane Doe as its new Chief Financial Officer, effective immediately.",1,neutral,synthetic,mistral:7b
+"Microsoft announces the launch of its new cloud-based productivity suite, aimed at enhancing collaboration among remote workers.",1,neutral,synthetic,mistral:7b
+"XYZ Corporation announces the appointment of John Doe as its new Chief Financial Officer, effective immediately.",1,neutral,synthetic,mistral:7b
+IBM announces the launch of a new AI-powered cloud service for small businesses.,1,neutral,synthetic,mistral:7b
+"Microsoft announces the release of its new productivity software suite, aimed at enhancing collaboration among remote workers.",1,neutral,synthetic,mistral:7b
+"Amazon announces the launch of a new logistics center in Kansas City, expected to create 1500 jobs.",1,neutral,synthetic,mistral:7b
+"Amazon Web Services announces the launch of a new data analytics service, designed to improve business intelligence capabilities for its clients.",1,neutral,synthetic,mistral:7b
+"Amazon announces the launch of a new delivery drone service, Prime Air Express, set to roll out in select cities by year-end.",1,neutral,synthetic,mistral:7b
+Amazon announces the launch of a new sustainability initiative focused on reducing packaging waste.,1,neutral,synthetic,mistral:7b
+"Tech giant IBM announces the launch of its new AI-powered cybersecurity platform, Quantum Security Suite, designed to enhance digital protection for businesses worldwide.",1,neutral,synthetic,mistral:7b
+Tech giant Microsoft announces a new partnership with NVIDIA for cloud-based AI services.,1,neutral,synthetic,mistral:7b
+IBM announces the launch of a new cloud-based data analytics platform for small businesses.,1,neutral,synthetic,mistral:7b
+Amazon announces a new initiative to expand its renewable energy projects globally.,1,neutral,synthetic,mistral:7b
+"Tesla announces the launch of its new electric semi-truck, set for production in 2023.",1,neutral,synthetic,mistral:7b
+"Nike Inc announces the launch of its new sustainable footwear line 'Move to Zero', furthering its commitment to environmental stewardship.",1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces a new cloud-based productivity suite, aimed at enhancing collaboration among remote workers.",1,neutral,synthetic,mistral:7b
+IBM announces the launch of its new cloud-based AI platform for businesses in the healthcare sector.,1,neutral,synthetic,mistral:7b
+"Apple Inc. announces the launch of its new iPhone SE model, featuring improved specifications and set to be available in stores starting April 24.",1,neutral,synthetic,mistral:7b
+Tech giant Microsoft announces the launch of its new cloud service for small businesses.,1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces the launch of a new data center in Sweden, bolstering its European cloud infrastructure.",1,neutral,synthetic,mistral:7b
+Tech giant Microsoft announces a new partnership with IBM to develop cloud-based AI solutions.,1,neutral,synthetic,mistral:7b
+Amazon announces the launch of a new sustainability initiative focused on reducing carbon emissions across its supply chain.,1,neutral,synthetic,mistral:7b
+Tech giant Microsoft announces the launch of its new cloud-based productivity suite for small businesses.,1,neutral,synthetic,mistral:7b
+Microsoft announces the release of a new cloud-based productivity suite for small businesses.,1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces the launch of its new cloud-based productivity suite, expected to be available by Q3 2023.",1,neutral,synthetic,mistral:7b
+"ABC Corp announces the appointment of XYZ as its new Chief Financial Officer, effective immediately.",1,neutral,synthetic,mistral:7b
+Amazon announces a new partnership with Deloitte for cloud consulting services.,1,neutral,synthetic,mistral:7b
+"Tech giant Google parent Alphabet Inc. announces the launch of a new AI research initiative, focusing on developing advanced language models.",1,neutral,synthetic,mistral:7b
+Amazon announces the launch of a new eco-friendly packaging initiative.,1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces the launch of its new cloud-based productivity suite, aimed at boosting efficiency for small businesses worldwide.",1,neutral,synthetic,mistral:7b
+Goldman Sachs announces the appointment of Jane Thompson as Head of its Global Equities Division.,1,neutral,synthetic,mistral:7b
+"Goldman Sachs announces the appointment of Jane Thompson as its new Chief Operating Officer, effective immediately.",1,neutral,synthetic,mistral:7b
+Intel announces the launch of its new 10nm processors for data center applications.,1,neutral,synthetic,mistral:7b
+Tech giant Microsoft announces a new AI-focused research lab in London to foster innovation and collaborate with UK academic institutions.,1,neutral,synthetic,mistral:7b
+IBM announces the launch of a new AI-powered supply chain management tool.,1,neutral,synthetic,mistral:7b
+"Amazon announces the launch of a new eco-friendly packaging initiative, aiming to reduce waste and promote sustainability.",1,neutral,synthetic,mistral:7b
+IBM announces the launch of its new cloud-based data analytics platform for small businesses.,1,neutral,synthetic,mistral:7b
+Apple Inc. announces plans to launch a new line of smartphones in Q3 2023.,1,neutral,synthetic,mistral:7b
+Amazon announces the launch of a new sustainability initiative focused on reducing packaging waste across its supply chain.,1,neutral,synthetic,mistral:7b
+"Amazon announces the launch of its new sustainable packaging initiative, aiming to reduce waste and promote eco-friendly practices in the company's supply chain.",1,neutral,synthetic,mistral:7b
+Amazon announces the launch of a new delivery service for small businesses in major cities worldwide.,1,neutral,synthetic,mistral:7b
+Tech giant Microsoft announces the launch of a new cloud-based collaboration platform for small businesses.,1,neutral,synthetic,mistral:7b
+IBM announces the launch of a new cloud-based analytics platform for small businesses.,1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces the launch of its new cloud-based productivity suite, 'Office 365 Fusion,' set to roll out globally in Q4 2022.",1,neutral,synthetic,mistral:7b
+Google announces the launch of a new cloud-based data analytics platform for small businesses.,1,neutral,synthetic,mistral:7b
+"Tech giant IBM announces the launch of a new cloud-based data analytics platform, set to be unveiled at the upcoming TechXpo conference.",1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces the launch of its new cloud service, Azure Arc, aimed at expanding hybrid cloud capabilities for businesses worldwide.",1,neutral,synthetic,mistral:7b
+"Nike Inc. announces the launch of a new line of sustainable shoes, set to hit stores next month.",1,neutral,synthetic,mistral:7b
+Goldman Sachs announces the appointment of Jane Thompson as the new Global Head of Commodities Trading.,1,neutral,synthetic,mistral:7b
+Amazon announces the launch of its new eco-friendly packaging initiative for Prime deliveries.,1,neutral,synthetic,mistral:7b
+"Amazon announces the launch of its new solar-powered delivery drone fleet, set to begin testing in select regions next year.",1,neutral,synthetic,mistral:7b
+Tech giant Microsoft announces the launch of its new cloud service 'Azure Edge Zones' for improved local data processing and reduced latency.,1,neutral,synthetic,mistral:7b
+"Tech giant Apple Inc. announces a new product launch event scheduled for October 18, focusing on updated iPhone and iPad models.",1,neutral,synthetic,mistral:7b
+IBM announces the launch of its new cloud-based AI analytics platform.,1,neutral,synthetic,mistral:7b
+Microsoft announces the launch of its new cloud-based collaboration platform for small businesses.,1,neutral,synthetic,mistral:7b
+Intel announces the launch of its new 7-nanometer Xeon processor line for data centers.,1,neutral,synthetic,mistral:7b
+"Tech giant Apple announces the launch of its new smartwatch series, Apple Watch SE3, set to hit stores in Q4 2021.",1,neutral,synthetic,mistral:7b
+"Tech giant Apple announces the launch of a new IoT platform for smart home devices, set to be unveiled at WWDC 2023.",1,neutral,synthetic,mistral:7b
+"Tech giant Apple Inc. announces the launch of its new home automation product line, HomeKit One, set to hit stores in Q2 2023.",1,neutral,synthetic,mistral:7b
+Microsoft announces a new cloud-based data analytics service for small and medium businesses.,1,neutral,synthetic,mistral:7b
+Amazon announces the launch of a new solar energy project as part of its continued commitment to sustainable operations.,1,neutral,synthetic,mistral:7b
+"Google announces a new AI research lab in Paris, expanding its global footprint in technological innovation.",1,neutral,synthetic,mistral:7b
+"Tesla Inc. announces the launch of its new solar roof tiles, set to be unveiled at an event next month.",1,neutral,synthetic,mistral:7b
+Tech giant Microsoft announces a new partnership with IBM to collaborate on cloud services and AI solutions.,1,neutral,synthetic,mistral:7b
+IBM announces the launch of its new cloud-based data analytics platform for small businesses.,1,neutral,synthetic,mistral:7b
+Tech giant Apple announces the launch of a new mobile application designed to enhance user experience.,1,neutral,synthetic,mistral:7b
+"Goldman Sachs announces the appointment of Jane Lee as Head of Global Fixed Income, effective immediately.",1,neutral,synthetic,mistral:7b
+Amazon announces the launch of a new sustainable packaging initiative for all Prime deliveries starting in Q1 2023.,1,neutral,synthetic,mistral:7b
+Tech giant Google announces the launch of its new cloud-based data analytics platform.,1,neutral,synthetic,mistral:7b
+"Goldman Sachs announces the appointment of Jane Thompson as the new head of its investment banking division, effective immediately.",1,neutral,synthetic,mistral:7b
+Amazon announces the launch of a new line of eco-friendly products as part of its ongoing commitment to sustainability.,1,neutral,synthetic,mistral:7b
+"Microsoft announces a new partnership with Adobe for cloud services integration, set to strengthen their shared digital offerings.",1,neutral,synthetic,mistral:7b
+Amazon announces the launch of a new eco-friendly packaging solution for its products.,1,neutral,synthetic,mistral:7b
+Apple Inc. announces plans to launch a new iOS app development program for small businesses in Q3 2022.,1,neutral,synthetic,mistral:7b
+Tesla announces the launch of its new solar roof tile line in Europe.,1,neutral,synthetic,mistral:7b
+"Goldman Sachs announces the appointment of Jane Thompson as Global Head of Renewable Energy Investment, effective immediately.",1,neutral,synthetic,mistral:7b
+IBM announces the launch of its new cloud-based data analytics service for small and medium-sized businesses.,1,neutral,synthetic,mistral:7b
+"Tesla announces the launch of its new solar roof tiles, available for pre-order starting today.",1,neutral,synthetic,mistral:7b
+IBM announces the launch of its new AI-powered cloud service for healthcare providers.,1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces the launch of its new cloud-based productivity suite, Office 365 F1, aimed at education sector globally.",1,neutral,synthetic,mistral:7b
+Amazon announces a new partnership with small businesses to expand its Prime delivery service.,1,neutral,synthetic,mistral:7b
+"Tesla Inc. announces the launch of its new solar roof tile line, set to be unveiled at an event next week.",1,neutral,synthetic,mistral:7b
+IBM announces the launch of a new cloud-based data analytics platform for small and medium businesses.,1,neutral,synthetic,mistral:7b
+Amazon announces a new partnership with Deloitte to enhance its supply chain operations.,1,neutral,synthetic,mistral:7b
+Amazon announces the launch of a new eco-friendly packaging initiative for all its products.,1,neutral,synthetic,mistral:7b
+Goldman Sachs announces the appointment of Jane Lee as its new Head of Global Investment Research.,1,neutral,synthetic,mistral:7b
+Goldman Sachs announces the appointment of Jane Lee as Head of Investment Banking for Asia Pacific.,1,neutral,synthetic,mistral:7b
+"XYZ Corporation announces the appointment of Jane Smith as its new Chief Financial Officer, effective immediately.",1,neutral,synthetic,mistral:7b
+Tech giant Microsoft announces the launch of its new cloud-based AI platform for small businesses.,1,neutral,synthetic,mistral:7b
+"IBM announces a new cloud-based data analytics platform for small businesses, set to launch in Q2 2023.",1,neutral,synthetic,mistral:7b
+IBM announces the launch of a new cloud-based AI analytics platform for healthcare industries.,1,neutral,synthetic,mistral:7b
+Goldman Sachs announces the appointment of Jane Smith as Head of European Equities.,1,neutral,synthetic,mistral:7b
+Amazon announces the launch of a new solar energy project in California.,1,neutral,synthetic,mistral:7b
+"Microsoft announces the launch of a new cloud service for small businesses, set to be rolled out in Q2.",1,neutral,synthetic,mistral:7b
+"Amazon announces the launch of a new sustainable packaging initiative for Prime deliveries, set to reduce waste by 100 million shipping boxes annually.",1,neutral,synthetic,mistral:7b
+Goldman Sachs announces the appointment of Jane Thompson as the new Head of Global Investment Research.,1,neutral,synthetic,mistral:7b
+"Apple Inc. announces a new product launch in the tech industry, set to unveil its latest smartwatch model at an upcoming event.",1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces the launch of a new cloud-based productivity suite, set to roll out globally in Q3 2023.",1,neutral,synthetic,mistral:7b
+"Tesla Inc. announces the launch of its new solar roof tile design, set to debut at an upcoming home improvement trade show.",1,neutral,synthetic,mistral:7b
+"IBM announces the launch of its new cloud-based data analytics platform, Quantum Insights.",1,neutral,synthetic,mistral:7b
+Goldman Sachs announces the appointment of Jane Smith as Global Head of Renewable Energy Investment.,1,neutral,synthetic,mistral:7b
+Amazon announces a new partnership with Deloitte to streamline its tax reporting processes.,1,neutral,synthetic,mistral:7b
+Amazon Web Services announces a new cloud-based data analytics platform for small businesses.,1,neutral,synthetic,mistral:7b
+"Tesla announces the launch of its new solar roof tiles, set to be unveiled at the upcoming SolarCity event.",1,neutral,synthetic,mistral:7b
+Tech giant Google announces a new AI research collaboration with the University of Cambridge.,1,neutral,synthetic,mistral:7b
+Amazon announces the launch of a new sustainable packaging initiative for its product shipments.,1,neutral,synthetic,mistral:7b
+Amazon announces the launch of a new renewable energy project in Texas.,1,neutral,synthetic,mistral:7b
+"Global technology giant Apple Inc. has announced the launch of its new product line, 'Apple One', a bundled service that combines multiple digital offerings under one subscription.",1,neutral,synthetic,mistral:7b
+Intel announces the launch of its new 7nm Xeon processor line for data center applications.,1,neutral,synthetic,mistral:7b
+"Cisco Systems announces the launch of its new cloud security platform, Cisco SecureX, aimed at strengthening enterprise security operations.",1,neutral,synthetic,mistral:7b
+Tech giant Microsoft announces the launch of its new cloud-based productivity suite.,1,neutral,synthetic,mistral:7b
+Amazon announces a new partnership with Deloitte for cloud consulting services to enhance its digital transformation initiatives.,1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces the launch of a new cloud-based productivity suite, set to be available worldwide by Q3 2023.",1,neutral,synthetic,mistral:7b
+Goldman Sachs announces the appointment of Jane Thompson as Head of European Equities.,1,neutral,synthetic,mistral:7b
+"Apple Inc. announces the launch of its new iPhone 13 series in September, featuring improved camera and battery life.",1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces the launch of a new cloud-based productivity suite, set to be available from Q4 2023.",1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces a new partnership with IBM for cloud services integration, set to enhance user experience and productivity.",1,neutral,synthetic,mistral:7b
+"Goldman Sachs announces the appointment of Jane Thompson as its new Chief Information Officer, effective immediately.",1,neutral,synthetic,mistral:7b
+"Tech giant Google announces the launch of its new cloud gaming service, Stadia, set to debut later this year.",1,neutral,synthetic,mistral:7b
+Tech giant Microsoft announces the launch of a new data center in Finland to support growing European cloud services.,1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces the launch of its new cloud service for small businesses, set to roll out globally within Q3 2023.",1,neutral,synthetic,mistral:7b
+"XYZ Corporation announces the appointment of Jane Smith as its new Chief Financial Officer, effective immediately.",1,neutral,synthetic,mistral:7b
+IBM announces the launch of a new AI-powered analytics platform for healthcare providers.,1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces the launch of a new cloud-based productivity suite, set to be released in Q3 2023.",1,neutral,synthetic,mistral:7b
+IBM announces the launch of a new cloud-based analytics platform for small businesses.,1,neutral,synthetic,mistral:7b
+"Tesla Inc. announces the launch of its new electric semi-truck model, set to hit markets in 2023.",1,neutral,synthetic,mistral:7b
+Goldman Sachs announces the appointment of Jane Thompson as Head of Global Investment Research.,1,neutral,synthetic,mistral:7b
+"Nike announces the launch of its new sustainability-focused sneaker line, set to hit stores next month.",1,neutral,synthetic,mistral:7b
+"XYZ Corporation announces the appointment of John Doe as Chief Financial Officer, effective immediately.",1,neutral,synthetic,mistral:7b
+Amazon announces a new partnership with Deloitte to enhance its cloud computing services for small and medium-sized businesses.,1,neutral,synthetic,mistral:7b
+Tech giant Google announces the launch of a new AI-powered productivity tool.,1,neutral,synthetic,mistral:7b
+Tech giant Apple announces the launch of a new app development platform for small businesses.,1,neutral,synthetic,mistral:7b
+"Amazon announces the launch of a new eco-friendly packaging solution, aimed at reducing its carbon footprint.",1,neutral,synthetic,mistral:7b
+Amazon announces the launch of a new sustainability initiative aimed at reducing carbon emissions in its supply chain.,1,neutral,synthetic,mistral:7b
+IBM announces the launch of a new AI-powered cybersecurity solution for small businesses.,1,neutral,synthetic,mistral:7b
+"Amazon announces a new eco-friendly packaging initiative, aiming to reduce waste by 100 million pounds annually.",1,neutral,synthetic,mistral:7b
+IBM announces the launch of its new cloud-based AI service for small businesses.,1,neutral,synthetic,mistral:7b
+Microsoft announces the release of its new cloud-based productivity suite for small businesses.,1,neutral,synthetic,mistral:7b
+"IBM announces the launch of a new AI-focused cloud service, set to be available from next quarter.",1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces the release of its new cloud-based productivity suite, Office 365 Fx, set to launch globally by Q2 2023.",1,neutral,synthetic,mistral:7b
+Goldman Sachs announces the appointment of a new head of global investment research.,1,neutral,synthetic,mistral:7b
+IBM announces the launch of its new cloud-based data analytics platform.,1,neutral,synthetic,mistral:7b
+Amazon announces the launch of a new solar-powered delivery station in California.,1,neutral,synthetic,mistral:7b
+Goldman Sachs announces the appointment of Jane Doe as Global Head of Sustainable Finance.,1,neutral,synthetic,mistral:7b
+Amazon announces the launch of a new solar energy project as part of its commitment to renewable sources.,1,neutral,synthetic,mistral:7b
+Amazon announces the launch of a new cloud-based data analytics service for small businesses.,1,neutral,synthetic,mistral:7b
+"Global technology giant Samsung Electronics announces the launch of its new mid-range smartphone series, the Galaxy A34, in over 80 markets starting next month.",1,neutral,synthetic,mistral:7b
+Amazon announces the launch of a new sustainable packaging initiative for its products.,1,neutral,synthetic,mistral:7b
+Microsoft announces a new cloud-based collaboration tool for small businesses.,1,neutral,synthetic,mistral:7b
+Tech giant Microsoft announces a new strategic partnership with IBM to develop AI solutions for enterprise clients.,1,neutral,synthetic,mistral:7b
+Tech giant Microsoft announces a new partnership with IBM to develop cloud-based AI solutions.,1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces the launch of its new cloud-based productivity suite, Office 365 F5, aimed at small and medium-sized businesses.",1,neutral,synthetic,mistral:7b
+IBM announces the launch of a new cloud-based AI solution for small businesses.,1,neutral,synthetic,mistral:7b
+IBM announces the launch of its new cloud-based AI platform for small businesses.,1,neutral,synthetic,mistral:7b
+Samsung Electronics announces plans to launch a new line of smart TVs featuring advanced AI technology.,1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces the launch of its new cloud-based productivity suite, aimed at enhancing collaboration and streamlining workflows for businesses worldwide.",1,neutral,synthetic,mistral:7b
+IBM announces the launch of its new quantum computing software suite for enterprise clients.,1,neutral,synthetic,mistral:7b
+Tech giant Microsoft announces the launch of its new cloud-based AI platform for small and medium-sized businesses.,1,neutral,synthetic,mistral:7b
+IBM announces a new partnership with Microsoft to integrate cloud services for enhanced data analytics solutions.,1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces the launch of its new cloud-based productivity suite, Office 365 F5, set to be available worldwide by Q2 2024.",1,neutral,synthetic,mistral:7b
+"Global tech giant Samsung announces the launch of its new foldable smartphone series, set to hit markets in Q4 2023.",1,neutral,synthetic,mistral:7b
+"IBM announces the launch of its new quantum computing software platform, Qiskit Flex.",1,neutral,synthetic,mistral:7b
+IBM announces the launch of its new cloud-based data analytics platform.,1,neutral,synthetic,mistral:7b
+Samsung Electronics announces the launch of its new line of home appliances at IFA 2023.,1,neutral,synthetic,mistral:7b
+"Microsoft announces the launch of its new cloud-based productivity suite, aimed at enhancing business efficiency.",1,neutral,synthetic,mistral:7b
+Amazon announces a new initiative to expand its renewable energy portfolio by partnering with solar and wind farm developers worldwide.,1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces the launch of a new AI-powered productivity tool, designed to streamline workflows for businesses.",1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces the launch of its new cloud-based productivity suite, Office 365 F5, aimed at enhancing collaboration and productivity for businesses worldwide.",1,neutral,synthetic,mistral:7b
+Samsung Electronics announces the launch of its new Galaxy Tab S8 series in Q1 2022.,1,neutral,synthetic,mistral:7b
+Microsoft announces a new partnership with Adobe to develop cloud-based creative solutions.,1,neutral,synthetic,mistral:7b
+"Microsoft announces the launch of its new cloud-based productivity suite, aimed at enhancing collaboration and streamlining workflows for businesses worldwide.",1,neutral,synthetic,mistral:7b
+"Amazon Web Services (AWS) announces the launch of a new data center region in Mumbai, India, to improve service availability and latency for customers in the Asia Pacific.",1,neutral,synthetic,mistral:7b
+"Global Tech Inc. announces the appointment of Jane Thompson as Chief Operating Officer, effective immediately.",1,neutral,synthetic,mistral:7b
+Samsung Electronics announces a new line of energy-efficient TVs set for release in Q3 2023.,1,neutral,synthetic,mistral:7b
+"Tesla Inc. announces the launch of its new solar roof tile product line, set to be unveiled at the upcoming Design Miami event.",1,neutral,synthetic,mistral:7b
+"Amazon announces the launch of a new renewable energy project in Texas, furthering its commitment to sustainable operations.",1,neutral,synthetic,mistral:7b
+Goldman Sachs announces the appointment of a new head of its global commodities division.,1,neutral,synthetic,mistral:7b
+Microsoft announces the launch of its new cloud-based productivity suite for small businesses.,1,neutral,synthetic,mistral:7b
+IBM announces the launch of its new AI-powered cloud service for small businesses.,1,neutral,synthetic,mistral:7b
+Amazon announces the launch of a new solar-powered data center in Nevada.,1,neutral,synthetic,mistral:7b
+"IBM announces the appointment of Jane Doe as its new Chief Financial Officer, effective immediately.",1,neutral,synthetic,mistral:7b
+"Apple announces the launch of its new product line, the iPhone 13 series, in September.",1,neutral,synthetic,mistral:7b
+Amazon announces a new solar energy project in India to power its data centers and reduce carbon footprint.,1,neutral,synthetic,mistral:7b
+"Google announces the launch of its new cloud-based productivity suite, 'Google Workspace Essentials', aimed at small businesses.",1,neutral,synthetic,mistral:7b
+Intel announces the launch of its new 10nm processor line in Q3 2023.,1,neutral,synthetic,mistral:7b
+"IBM announces the launch of its new quantum computing software suite, Qiskit 21.10, aimed at accelerating research and development in the field.",1,neutral,synthetic,mistral:7b
+"Microsoft announces the launch of its new cloud-based productivity suite, aimed at expanding its offerings in digital workspace solutions.",1,neutral,synthetic,mistral:7b
+"Microsoft announces the launch of its new cloud-based data analytics platform, Azure Synapse Analytics.",1,neutral,synthetic,mistral:7b
+"Amazon announces the launch of a new sustainable packaging initiative, aiming to reduce waste and carbon emissions in its operations.",1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces the launch of its new cloud-based productivity suite, set to roll out in Q3 2023.",1,neutral,synthetic,mistral:7b
+IBM announces the launch of its new cloud-based analytics platform for small businesses.,1,neutral,synthetic,mistral:7b
+IBM announces the launch of a new cloud-based data analytics service for small businesses.,1,neutral,synthetic,mistral:7b
+IBM announces the launch of its new cloud-based data analytics service for small businesses.,1,neutral,synthetic,mistral:7b
+"IBM announces the launch of its new AI-powered cloud service, set to be rolled out in Q2 2023.",1,neutral,synthetic,mistral:7b
+Google announces the launch of a new cloud computing service designed to support small businesses.,1,neutral,synthetic,mistral:7b
+Pfizer announces a new manufacturing facility in Ireland for the production of mRNA vaccines.,1,neutral,synthetic,mistral:7b
+"IBM announces the appointment of Jane Doe as its new Chief Financial Officer, effective immediately.",1,neutral,synthetic,mistral:7b
+IBM announces the launch of a new cloud-based data analytics platform for small businesses.,1,neutral,synthetic,mistral:7b
+"Tesla announces the launch of its new solar roof tile product line, set to hit markets in Q3 2023.",1,neutral,synthetic,mistral:7b
+Tech giant Microsoft announces a new collaboration with IBM on cloud-based AI solutions.,1,neutral,synthetic,mistral:7b
+"Amazon Web Services announces the launch of a new data center in Frankfurt, expanding its European footprint.",1,neutral,synthetic,mistral:7b
+"IBM announces the launch of its new cloud-based data analytics service, aimed at enhancing businesses' data management capabilities.",1,neutral,synthetic,mistral:7b
+Amazon announces the launch of a new sustainability initiative aimed at reducing plastic waste in its packaging operations.,1,neutral,synthetic,mistral:7b
+"Microsoft announces a new cloud-based service for small businesses, set to launch in Q3 2023.",1,neutral,synthetic,mistral:7b
+"Amazon announces the launch of a new renewable energy project in Texas, furthering its commitment to sustainable power sources.",1,neutral,synthetic,mistral:7b
+IBM announces the launch of a new cloud-based analytics service for small businesses.,1,neutral,synthetic,mistral:7b
+"Goldman Sachs announces the appointment of Jane Thompson as its new Chief Risk Officer, effective immediately.",1,neutral,synthetic,mistral:7b
+"IBM announces the launch of its new AI-powered cloud platform, IBM Watson AiX, aimed at enhancing business operations for clients globally.",1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces the launch of a new cloud-based AI platform for small businesses, set to roll out next month.",1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces the launch of its new cloud-based productivity suite, aimed at enhancing business efficiency.",1,neutral,synthetic,mistral:7b
+IBM announces the launch of a new cloud-based data analytics platform for healthcare providers.,1,neutral,synthetic,mistral:7b
+"Microsoft Corporation announces the launch of its new cloud-based productivity suite, expected to be available in Q2 2023.",1,neutral,synthetic,mistral:7b
+"Samsung Electronics announces the launch of its new Galaxy Tab A8 tablet, offering enhanced features for a competitive price range.",1,neutral,synthetic,mistral:7b
+"Tech giant IBM announces the launch of a new cloud-based analytics platform, set to enhance data processing capabilities for businesses worldwide.",1,neutral,synthetic,mistral:7b
+IBM announces the launch of a new cloud-based data analytics service for small businesses.,1,neutral,synthetic,mistral:7b
+Microsoft announces the launch of its new cloud-based data analysis tool for small businesses.,1,neutral,synthetic,mistral:7b
+Microsoft announces a new partnership with Adobe to integrate cloud services.,1,neutral,synthetic,mistral:7b
+Amazon announces plans to expand its renewable energy portfolio by investing in new wind farms in Texas and Indiana.,1,neutral,synthetic,mistral:7b
+IBM announces the launch of a new cloud-based analytics platform for healthcare providers.,1,neutral,synthetic,mistral:7b
+IBM announces the launch of a new cloud-based analytics platform for small businesses.,1,neutral,synthetic,mistral:7b
+"Amazon announces the launch of a new renewable energy project in Texas, aiming to bolster its sustainable operations.",1,neutral,synthetic,mistral:7b
+Amazon announces a new partnership with IBM to improve cloud services integration.,1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces the launch of its new cloud-based productivity suite, Microsoft 365 Fusion, aimed at streamlining collaborative work for businesses worldwide.",1,neutral,synthetic,mistral:7b
+"IBM announces the appointment of Jane Doe as its new Chief Financial Officer, effective June 1st.",1,neutral,synthetic,mistral:7b
+Amazon announces a new initiative to expand its renewable energy capacity by building solar farms in multiple U.S. states.,1,neutral,synthetic,mistral:7b
+Amazon announces the launch of a new solar-powered delivery station in California.,1,neutral,synthetic,mistral:7b
+"Pfizer announces the appointment of Dr. Jane Thompson as its new Chief Scientific Officer, effective immediately.",1,neutral,synthetic,mistral:7b
+"IBM announces the launch of its new cloud-based data analytics service, Quantum Insights.",1,neutral,synthetic,mistral:7b
+"Microsoft announces the launch of a new cloud-based productivity suite, designed to enhance collaboration and efficiency for businesses worldwide.",1,neutral,synthetic,mistral:7b
+Amazon announces the launch of a new sustainable packaging initiative for its retail products.,1,neutral,synthetic,mistral:7b
+"Global Technology Inc. announces the appointment of Jane Thompson as Chief Operating Officer, effective immediately.",1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces the launch of its new cloud service, Azure Arc, expanding its cloud offerings to edge and multi-cloud environments.",1,neutral,synthetic,mistral:7b
+Tech giant Microsoft announces the launch of its new cloud-based AI platform for small businesses.,1,neutral,synthetic,mistral:7b
+Tesla announces Q2 earnings report scheduled for July 26.,1,neutral,synthetic,mistral:7b
+Goldman Sachs announces the appointment of Jane Kim as Head of its Global Investment Research division.,1,neutral,synthetic,mistral:7b
+"ABC Corp announces the appointment of Jane Smith as its new Chief Financial Officer, effective June 1.",1,neutral,synthetic,mistral:7b
+Goldman Sachs announces the appointment of Jane Smith as Head of European Equities.,1,neutral,synthetic,mistral:7b
+Microsoft announces the launch of its new cloud-based productivity suite for small businesses.,1,neutral,synthetic,mistral:7b
+"Global technology firm Samsung Electronics announces the launch of its new line of smartphones, the Galaxy S21 FE, marking another step in its continuous product expansion strategy.",1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces the launch of its new cloud-based productivity suite 'Office 365 FYSE', targeting the educational sector globally.",1,neutral,synthetic,mistral:7b
+IBM announces the launch of its new AI-powered cybersecurity solution for small and medium businesses.,1,neutral,synthetic,mistral:7b
+"Tech giant Google announces the launch of its new cloud gaming service, Stadia, set to compete with Microsoft's Project xCloud.",1,neutral,synthetic,mistral:7b
+IBM announces the launch of its new cloud-based data analytics platform for small and medium-sized businesses.,1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces the launch of a new cloud-based productivity suite, set to be available in Q3.",1,neutral,synthetic,mistral:7b
+IBM announces the launch of its new cloud-based AI analytics platform for small and medium businesses.,1,neutral,synthetic,mistral:7b
+Amazon announces a new partnership with small businesses in the UK to sell their products on its platform.,1,neutral,synthetic,mistral:7b
+Goldman Sachs announces the appointment of Jane Thompson as its new Head of European Equities.,1,neutral,synthetic,mistral:7b
+Amazon announces the launch of a new recycling program for electronic waste in partnership with global e-waste management firms.,1,neutral,synthetic,mistral:7b
+"Tech giant IBM announces the launch of its new cloud-based data analytics platform, aimed at enhancing business intelligence solutions for clients worldwide.",1,neutral,synthetic,mistral:7b
+"IBM announces the launch of its new AI-powered supply chain platform, set to improve efficiency and reduce costs for clients.",1,neutral,synthetic,mistral:7b
+"Apple announces the launch of its new iPhone 13 series, set to be available in stores starting September 24.",1,neutral,synthetic,mistral:7b
+"Apple announces the launch of its new iPhone SE model, offering a more affordable option for consumers.",1,neutral,synthetic,mistral:7b
+Tech giant Microsoft announces a new partnership with IBM to develop cloud-based AI solutions.,1,neutral,synthetic,mistral:7b
+Goldman Sachs announces the appointment of Jane Lee as Global Head of Sustainable Finance.,1,neutral,synthetic,mistral:7b
+"Tech giant IBM announces the launch of a new cloud-based data analytics platform, set to be released next quarter.",1,neutral,synthetic,mistral:7b
+"Apple Inc. announces the launch of its new iPhone SE, expanding its smartphone lineup.",1,neutral,synthetic,mistral:7b
+Amazon announces the launch of a new solar-powered delivery station in California.,1,neutral,synthetic,mistral:7b
+Tech giant Microsoft announces a new partnership with leading automotive company Ford to develop advanced in-car AI solutions.,1,neutral,synthetic,mistral:7b
+Amazon announces a new partnership with Adobe to enhance cloud-based services for small businesses.,1,neutral,synthetic,mistral:7b
+Tech giant Microsoft announces the launch of a new cloud-based productivity suite for small and medium businesses.,1,neutral,synthetic,mistral:7b
+"ABC Corporation announces the appointment of Jane Doe as its new Chief Financial Officer, effective immediately.",1,neutral,synthetic,mistral:7b
+IBM announces the launch of its new cloud-based AI platform for small businesses.,1,neutral,synthetic,mistral:7b
+Tech giant Microsoft announces the launch of its new cloud-based data analytics platform.,1,neutral,synthetic,mistral:7b
+"Amazon announces the launch of a new sustainability initiative, aiming to reduce carbon emissions by 50% in its operations by 2030.",1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces the launch of its new cloud-based productivity suite, ""Office 4.0"", designed to enhance collaboration and productivity for businesses worldwide.",1,neutral,synthetic,mistral:7b
+"Microsoft announces the launch of its new cloud-based productivity suite, aimed at enhancing collaboration for businesses worldwide.",1,neutral,synthetic,mistral:7b
+Amazon announces the launch of a new sustainable packaging initiative for Prime deliveries.,1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces the launch of a new cloud-based productivity suite, targeting small and medium businesses.",1,neutral,synthetic,mistral:7b
+Goldman Sachs announces the appointment of Jane Lee as the new Head of Global Sustainable Finance.,1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces the launch of its new cloud service, Azure Stack HCI 21H2, aimed at providing enhanced data center capabilities for businesses.",1,neutral,synthetic,mistral:7b
+"Tesla Inc. announces the launch of its new solar roof tile product line, set to begin production in Q3 2023.",1,neutral,synthetic,mistral:7b
+"IBM announces a new cloud-based AI solution, set to launch next quarter.",1,neutral,synthetic,mistral:7b
+Microsoft Corporation announces a new strategic partnership with Adobe Systems to enhance cloud services offerings.,1,neutral,synthetic,mistral:7b
+Tech giant IBM announces the launch of a new cloud-based AI platform for small and medium businesses.,1,neutral,synthetic,mistral:7b
+IBM announces the launch of a new cloud-based AI platform for healthcare providers.,1,neutral,synthetic,mistral:7b
+IBM announces the launch of a new cloud-based AI platform for small businesses.,1,neutral,synthetic,mistral:7b
+Amazon announces the launch of a new sustainability initiative focused on reducing carbon emissions in its delivery fleet.,1,neutral,synthetic,mistral:7b
+Amazon announces the launch of a new renewable energy project in Texas to power its data centers.,1,neutral,synthetic,mistral:7b
+Microsoft announces a new cloud-based collaboration tool set to launch next quarter.,1,neutral,synthetic,mistral:7b
+Amazon announces the launch of a new logistics center in Seattle to enhance delivery efficiency.,1,neutral,synthetic,mistral:7b
+Amazon announces the launch of a new logistics center in Dallas to support growing e-commerce operations.,1,neutral,synthetic,mistral:7b
+IBM announces the launch of a new cloud-based AI platform for healthcare industry partners.,1,neutral,synthetic,mistral:7b
+"Microsoft announces the release of a new productivity software suite, set to roll out globally in Q3 2023.",1,neutral,synthetic,mistral:7b
+"IBM announces the launch of its new cloud-based data analytics platform, set to enhance business intelligence and decision-making capabilities for clients.",1,neutral,synthetic,mistral:7b
+Amazon announces the launch of a new sustainable packaging initiative for its shipping services.,1,neutral,synthetic,mistral:7b
+IBM announces the launch of its new AI-powered data analytics platform for small businesses.,1,neutral,synthetic,mistral:7b
+"Tech giant Google announces the launch of a new cloud-based data analytics tool, set to be rolled out globally in Q3.",1,neutral,synthetic,mistral:7b
+"Tesla announces the launch of its new solar roof tile product line, set to be available for customer orders starting next quarter.",1,neutral,synthetic,mistral:7b
+"Global Industries announces the appointment of Jane Thompson as its new Chief Financial Officer, effective immediately.",1,neutral,synthetic,mistral:7b
+Amazon announces the launch of a new sustainability initiative aimed at reducing carbon emissions in its global supply chain.,1,neutral,synthetic,mistral:7b
+Microsoft announces the launch of a new cloud-based productivity suite for small businesses.,1,neutral,synthetic,mistral:7b
+"Amazon announces the launch of a new delivery service for small businesses, aiming to expand its logistics network.",1,neutral,synthetic,mistral:7b
+Microsoft announces the launch of a new cloud-based productivity suite for small businesses.,1,neutral,synthetic,mistral:7b
+"Apple Inc. announces the launch of its new iPhone SE model, available for pre-order starting April 17.",1,neutral,synthetic,mistral:7b
+Goldman Sachs announces the appointment of Jane Kim as Global Head of Sustainable Finance.,1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces the launch of a new cloud-based productivity suite, set to be available globally from July 1.",1,neutral,synthetic,mistral:7b
+"Amazon announces the launch of a new cloud-based service for small businesses, set to debut in Q2 2023.",1,neutral,synthetic,mistral:7b
+Amazon announces the launch of a new solar-powered delivery drone prototype.,1,neutral,synthetic,mistral:7b
+Tech giant Microsoft announces the launch of its new cloud-based productivity suite for small businesses.,1,neutral,synthetic,mistral:7b
+"IBM announces a new partnership with Microsoft to integrate cloud services, enhancing their shared offerings for enterprise clients.",1,neutral,synthetic,mistral:7b
+IBM announces the launch of its new cloud-based data analytics platform.,1,neutral,synthetic,mistral:7b
+Amazon announces a new partnership with a leading solar energy provider to power its data centers and warehouses.,1,neutral,synthetic,mistral:7b
+"XYZ Corporation announces the appointment of Jane Smith as its new Chief Financial Officer, effective immediately.",1,neutral,synthetic,mistral:7b
+Goldman Sachs announces the appointment of Jane Thompson as Head of Global Sustainable Finance.,1,neutral,synthetic,mistral:7b
+"Pharmaceutical giant Merck & Co. announces the appointment of Dr. Sarah Williams as its new Chief Research Officer, effective immediately.",1,neutral,synthetic,mistral:7b
+Amazon Web Services announces a new cloud security offering for enterprise clients.,1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces the launch of a new cloud-based service for small businesses, set to debut next quarter.",1,neutral,synthetic,mistral:7b
+Amazon announces plans to expand its renewable energy portfolio by investing in new wind farms.,1,neutral,synthetic,mistral:7b
+"Tech giant Google announces a new product launch in the AI sector, the 'Google Assistant Hub,' set to be released by Q3 2023.",1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces the launch of its new cloud-based productivity suite, set to be available globally from next quarter.",1,neutral,synthetic,mistral:7b
+Goldman Sachs announces the appointment of Jane Thompson as Head of Global Investment Research.,1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces the launch of its new cloud-based productivity suite, expected to be available in Q2 2023.",1,neutral,synthetic,mistral:7b
+IBM announces the launch of a new cloud-based data analytics service for small businesses.,1,neutral,synthetic,mistral:7b
+"Apple Inc. announces the launch of its new iPad Pro model, featuring a faster M1 chip and enhanced LiDAR scanner technology.",1,neutral,synthetic,mistral:7b
+"Tesla Inc announces the launch of its new solar roof tiles, set to be rolled out in selected regions from Q3 2023.",1,neutral,synthetic,mistral:7b
+Amazon announces the launch of a new logistics center in Atlanta to improve delivery times and expand its Prime Now service.,1,neutral,synthetic,mistral:7b
+Amazon announces the launch of its new sustainable packaging initiative for all shipping products.,1,neutral,synthetic,mistral:7b
+"IBM announces the launch of a new cloud-based data analytics service, set to be available next quarter.",1,neutral,synthetic,mistral:7b
+Tech giant Microsoft announces the launch of its new cloud-based productivity suite.,1,neutral,synthetic,mistral:7b
+Amazon announces the launch of a new solar energy project in California.,1,neutral,synthetic,mistral:7b
+IBM announces the launch of its new AI-powered data analytics platform for small businesses.,1,neutral,synthetic,mistral:7b
+"Microsoft announces the launch of its new cloud service, Azure Arc, aimed at expanding its hybrid cloud offerings.",1,neutral,synthetic,mistral:7b
+IBM announces the launch of a new cloud-based data analytics service.,1,neutral,synthetic,mistral:7b
+Amazon announces a new partnership with Deloitte for cloud-based accounting services.,1,neutral,synthetic,mistral:7b
+"Amazon Web Services announces a new data analytics service for businesses, set to launch next month.",1,neutral,synthetic,mistral:7b
+Tech giant Apple Inc. announced a new strategic partnership with IBM for enhancing cloud services and AI integration in their respective businesses.,1,neutral,synthetic,mistral:7b
+"IBM announces the appointment of Jane Doe as its new Chief Financial Officer, effective from May 1st.",1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces the launch of a new AI-powered productivity tool, set to be unveiled at its annual conference next month.",1,neutral,synthetic,mistral:7b
+"Tesla announces the launch of its new electric semi-truck, slated for production in 2021.",1,neutral,synthetic,mistral:7b
+IBM announces the launch of a new AI-powered cybersecurity solution aimed at enhancing digital protection for businesses.,1,neutral,synthetic,mistral:7b
+Goldman Sachs announces the appointment of Jane Thompson as the new Head of Investment Banking in London.,1,neutral,synthetic,mistral:7b
+Amazon announces the launch of a new solar energy project in Texas to power its data centers and reduce carbon emissions.,1,neutral,synthetic,mistral:7b
+"Amazon announces the launch of its new renewable energy project in Texas, furthering its commitment to sustainable power sources.",1,neutral,synthetic,mistral:7b
+"Pfizer announces the appointment of Dr. Jane Thompson as its new Chief Medical Officer, effective immediately.",1,neutral,synthetic,mistral:7b
+"Microsoft announces the launch of its new cloud-based productivity suite, set to roll out globally by Q4 2023.",1,neutral,synthetic,mistral:7b
+Amazon announces a new collaboration with Google Cloud to improve cloud services for small businesses.,1,neutral,synthetic,mistral:7b
+Amazon announces plans to expand its renewable energy portfolio with a new solar farm in Texas.,1,neutral,synthetic,mistral:7b
+IBM announces the launch of its new cloud-based data analytics service.,1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces the launch of its new cloud service, Azure Quantum, aimed at quantum computing research.",1,neutral,synthetic,mistral:7b
+"IBM announces the launch of its new cloud-based data analytics platform, Quantum Cloud Services.",1,neutral,synthetic,mistral:7b
+IBM announces the launch of its new cloud-based data analytics platform.,1,neutral,synthetic,mistral:7b
+"Microsoft Corporation announces the launch of its new cloud-based productivity suite, aimed at enhancing digital transformation for businesses worldwide.",1,neutral,synthetic,mistral:7b
+"Amazon announces the launch of a new sustainable packaging initiative, aimed at reducing waste and promoting eco-friendly practices in their supply chain.",1,neutral,synthetic,mistral:7b
+IBM announces a new cloud-based AI solution aimed at enhancing supply chain efficiency.,1,neutral,synthetic,mistral:7b
+"Amazon announces the launch of a new delivery service, Prime Air Express, aimed at reducing shipping times for customers.",1,neutral,synthetic,mistral:7b
+Intel announces the launch of its new 7-nanometer processors for data centers and AI applications.,1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces the launch of its new cloud-based productivity suite, designed to enhance collaboration and streamline workflows for businesses worldwide.",1,neutral,synthetic,mistral:7b
+IBM announces the launch of its new cloud-based data analytics platform for small businesses.,1,neutral,synthetic,mistral:7b
+"Apple Inc. announces the launch of its new iPhone SE model, offering a budget-friendly option for consumers.",1,neutral,synthetic,mistral:7b
+"XYZ Corporation announces the appointment of Jane Smith as its new Chief Financial Officer, effective June 1st.",1,neutral,synthetic,mistral:7b
+IBM announces the launch of its new cloud-based AI analytics platform.,1,neutral,synthetic,mistral:7b
+"Amazon announces a new solar energy project in partnership with SunPower, aimed at powering its data centers and reducing carbon emissions.",1,neutral,synthetic,mistral:7b
+Tesla announces the launch of its new solar roof tiles in a bid to expand its renewable energy offerings.,1,neutral,synthetic,mistral:7b
+"Tech giant Google announces the launch of its new cloud-based productivity suite, Google Workspace Essentials.",1,neutral,synthetic,mistral:7b
+Goldman Sachs announces the appointment of Jane Lee as Head of Global Commodities Trading.,1,neutral,synthetic,mistral:7b
+"Amazon announces the launch of a new sustainability-focused product line, set to hit stores next quarter.",1,neutral,synthetic,mistral:7b
+"Tesla announces the launch of its new electric semi-truck model, set to hit markets by 2023.",1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces the launch of its new cloud-based productivity suite 'Office 365 FX', aimed at improving user experience and collaboration.",1,neutral,synthetic,mistral:7b
+IBM announces the launch of a new cloud-based data analytics service for small businesses.,1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces the launch of its new cloud-based data analytics platform, Azure Synapse Analytics, for businesses worldwide.",1,neutral,synthetic,mistral:7b
+Tech giant Alphabet Inc. announces the appointment of Dr. Sarah Nelson as its new Chief Sustainability Officer.,1,neutral,synthetic,mistral:7b
+"Amazon announces the launch of its new cloud gaming service, Luna, in early October.",1,neutral,synthetic,mistral:7b
+IBM announces the launch of its new AI-powered cloud service for healthcare providers.,1,neutral,synthetic,mistral:7b
+IBM announces the launch of its new AI-powered cloud service for small businesses.,1,neutral,synthetic,mistral:7b
+"X Corp announces the appointment of Jane Doe as Chief Financial Officer, effective immediately.",1,neutral,synthetic,mistral:7b
+"Amazon announces plans to open a new fulfillment center in Dallas, increasing its footprint in Texas.",1,neutral,synthetic,mistral:7b
+"Microsoft announces the launch of a new cloud-based productivity suite, aimed at enhancing collaboration for businesses.",1,neutral,synthetic,mistral:7b
+"Amazon announces a new renewable energy project in Texas, set to power several of its data centers.",1,neutral,synthetic,mistral:7b
+Tesla Inc. announces the launch of its new solar roof tile product line at a press event in California.,1,neutral,synthetic,mistral:7b
+Amazon announces the launch of a new delivery service for small businesses in major US cities.,1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces a new cloud computing service expansion in Europe, set to launch next quarter.",1,neutral,synthetic,mistral:7b
+Intel announces a new partnership with Microsoft for cloud-based AI solutions development.,1,neutral,synthetic,mistral:7b
+"Tesla announces a new partnership with Panasonic to expand solar panel manufacturing capacity in Buffalo, New York.",1,neutral,synthetic,mistral:7b
+"Microsoft Corporation announces the launch of its new cloud-based productivity suite, aimed at enhancing user experience and streamlining operations.",1,neutral,synthetic,mistral:7b
+Amazon announces plans to expand its logistics network in Europe.,1,neutral,synthetic,mistral:7b
+Tech giant Microsoft announces the launch of its new cloud-based data analytics service for small and medium-sized businesses.,1,neutral,synthetic,mistral:7b
+Goldman Sachs announces the appointment of Jane Thompson as Chief Operating Officer for its Investment Management Division.,1,neutral,synthetic,mistral:7b
+IBM announces the launch of a new cloud-based data analytics platform.,1,neutral,synthetic,mistral:7b
+Amazon announces plans to expand its renewable energy portfolio by partnering with a new wind farm in Texas.,1,neutral,synthetic,mistral:7b
+Microsoft announces the launch of its new cloud-based productivity suite for small businesses.,1,neutral,synthetic,mistral:7b
+Amazon announces a new sustainability initiative focused on reducing carbon emissions in their packaging materials by 2030.,1,neutral,synthetic,mistral:7b
+"XYZ Corporation announces the appointment of Jane Doe as its new Chief Financial Officer, effective immediately.",1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces a new cloud service partnership with European telecom company Vodafone, expanding its global reach in the digital services sector.",1,neutral,synthetic,mistral:7b
+"Tesla Inc. announces the launch of its new Supercharger V3 stations, aiming to reduce electric vehicle charging times.",1,neutral,synthetic,mistral:7b
+"IBM announces the launch of its new cloud-based AI platform, aimed at enhancing business operations for clients.",1,neutral,synthetic,mistral:7b
+Tech giant Google announces the launch of a new cloud-based productivity suite for small businesses.,1,neutral,synthetic,mistral:7b
+Amazon announces a new solar-powered data center in Ireland as part of its ongoing commitment to renewable energy.,1,neutral,synthetic,mistral:7b
+IBM announces the launch of a new cloud-based AI analytics platform for healthcare providers.,1,neutral,synthetic,mistral:7b
+"IBM announces a new cloud-based data analytics platform, set to launch in Q2 2023.",1,neutral,synthetic,mistral:7b
+"Tech giant IBM announces the launch of a new cloud-based data analytics platform, aimed at enhancing business intelligence for clients.",1,neutral,synthetic,mistral:7b
+Goldman Sachs announces the appointment of Jane Thompson as the new head of its commodities division in London.,1,neutral,synthetic,mistral:7b
+"Microsoft Corporation announces the launch of its new cloud-based productivity suite, set to roll out globally in Q2 2023.",1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces the launch of its new cloud-based productivity suite, Office 365 F5, set to roll out by Q4 2023.",1,neutral,synthetic,mistral:7b
+IBM announces a new cloud-based analytics platform set for Q2 release.,1,neutral,synthetic,mistral:7b
+"Apple Inc. announces the launch of a new product line, the HomePod Mini, set to hit markets in October.",1,neutral,synthetic,mistral:7b
+"Amazon announces the launch of a new sustainability initiative, 'Green Tech,' aimed at reducing carbon emissions across its global supply chain.",1,neutral,synthetic,mistral:7b
+Amazon announces the launch of a new sustainable packaging initiative aimed at reducing waste in its supply chain.,1,neutral,synthetic,mistral:7b
+Amazon announces the launch of a new cloud service aimed at small and medium-sized businesses.,1,neutral,synthetic,mistral:7b
+"Amazon announces the launch of a new solar-powered delivery station in Seattle, aiming to reduce carbon emissions in its logistics operations.",1,neutral,synthetic,mistral:7b
+Amazon announces the launch of a new solar energy farm in Texas to power its data centers and reduce carbon footprint.,1,neutral,synthetic,mistral:7b
+"Amazon announces the launch of its new sustainable packaging initiative, aiming to reduce waste and carbon footprint in shipping.",1,neutral,synthetic,mistral:7b
+"Tech giant IBM announces the launch of a new cloud-based analytics platform, set to enhance business intelligence and data management capabilities for clients worldwide.",1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces the launch of its new cloud-based productivity suite, set to roll out in Q3.",1,neutral,synthetic,mistral:7b
+Goldman Sachs Group Inc announces the appointment of Jane Lee as Head of its Asian Equity Research department.,1,neutral,synthetic,mistral:7b
+Amazon announces the launch of a new eco-friendly packaging initiative for Prime deliveries.,1,neutral,synthetic,mistral:7b
+"XYZ Corporation announces the appointment of John Doe as Chief Financial Officer, effective immediately.",1,neutral,synthetic,mistral:7b
+"Amazon announces plans to open a new logistics center in Ohio, set to create over 1500 jobs by 2023.",1,neutral,synthetic,mistral:7b
+IBM announces the launch of its new cloud-based AI analytics platform.,1,neutral,synthetic,mistral:7b
+Goldman Sachs announces the appointment of Jane Smith as Head of European Equities.,1,neutral,synthetic,mistral:7b
+"Tesla Inc. announces the launch of its new solar roof tile model, which will be showcased at the upcoming SolarCity event.",1,neutral,synthetic,mistral:7b
+"Apple Inc. announces the launch of its new mobile payment service Apple Pay Later, set to compete with other buy now, pay later platforms.",1,neutral,synthetic,mistral:7b
+"Tesla announces the launch of its new solar roof tile product line, set to debut in summer 2023.",1,neutral,synthetic,mistral:7b
+Google announces the launch of a new cloud-based productivity suite aimed at small and medium-sized businesses.,1,neutral,synthetic,mistral:7b
+Amazon announces a new partnership with Deloitte to boost its tax accounting and compliance processes.,1,neutral,synthetic,mistral:7b
+"Tesla Inc. has announced the launch of its new Model Y SUV, set to debut in spring 2021.",1,neutral,synthetic,mistral:7b
+Amazon announces the launch of a new solar-powered data center in Virginia.,1,neutral,synthetic,mistral:7b
+"XYZ Corporation announces the appointment of Jane Doe as its new Chief Financial Officer, effective immediately.",1,neutral,synthetic,mistral:7b
+"Amazon announces a new product line focused on home automation and AI, set to launch in Q4 2023.",1,neutral,synthetic,mistral:7b
+"Goldman Sachs announces the appointment of Jane Thompson as its new Chief Risk Officer, effective immediately.",1,neutral,synthetic,mistral:7b
+"Tech giant IBM announces the launch of a new cloud-based data analytics service, set to be available globally by Q3 2022.",1,neutral,synthetic,mistral:7b
+"IBM announces a new cloud-based analytics service for small businesses, set to launch in Q2 2023.",1,neutral,synthetic,mistral:7b
+"X Corp announces the appointment of John Smith as its new CFO, effective immediately.",1,neutral,synthetic,mistral:7b
+"Tech giant Microsoft announces the launch of its new cloud-based productivity suite, aimed at enhancing user experience and expanding business opportunities.",1,neutral,synthetic,mistral:7b
+"Amazon announces the launch of its new sustainable packaging initiative, aiming to reduce waste and promote eco-friendly practices.",1,neutral,synthetic,mistral:7b
+"Amazon announces the launch of a new logistics center in Kansas City, set to boost delivery efficiency.",1,neutral,synthetic,mistral:7b
+IBM announces the launch of a new cloud-based AI platform for businesses in the healthcare sector.,1,neutral,synthetic,mistral:7b
+Shares in XYZ Corporation surged 6% after reporting a 15% increase in Q3 profits.,2,positive,synthetic,mistral:7b
+Q2 earnings report reveals a 15% profit increase for XYZ Corporation.,2,positive,synthetic,mistral:7b
+Q3 earnings report shows a 15% profit increase for technology giant XYZ Corporation.,2,positive,synthetic,mistral:7b
+"Tech giant Q2 earnings surpass estimates, posting a 15% year-on-year revenue growth.",2,positive,synthetic,mistral:7b
+Tech giant Q1 earnings report reveals a 20% year-over-year increase in profits.,2,positive,synthetic,mistral:7b
+"Microsoft reports a 15% Q3 revenue growth, driven by strong demand for cloud services and LinkedIn.""
+
+Generate one short financial news sentence with NEUTRAL sentiment. Examples of neutral topics: earnings release, Q2 financials, balance sheet update, company statement, regulatory announcement.
+
+""Apple announces its Q2 2023 financial results, reporting income and revenue figures without providing further analysis.""
+
+Generate one short financial news sentence with NEGATIVE sentiment. Examples of negative topics: earnings miss, revenue decline, profit drop, failed",2,positive,synthetic,mistral:7b
+"Q3 earnings report shows a 15% increase in profit for TechCorp, surpassing analysts' expectations.",2,positive,synthetic,mistral:7b
+Q3 earnings report reveals a 12% profit increase for TechCorp compared to last year.,2,positive,synthetic,mistral:7b
+Q2 earnings report reveals a 15% year-over-year profit increase for tech giant ABC Inc.,2,positive,synthetic,mistral:7b
+"Tech giant Q4 earnings surpass expectations by 15%, driven by strong demand for its cloud services.",2,positive,synthetic,mistral:7b
+Tech giant Apple announces a 10% increase in quarterly earnings due to robust iPhone sales.,2,positive,synthetic,mistral:7b
+Q3 earnings report reveals a 12% year-over-year revenue growth for tech giant XYZ Corp.,2,positive,synthetic,mistral:7b
+Q3 earnings report reveals a 15% revenue growth for TechCorp compared to the same period last year.,2,positive,synthetic,mistral:7b
+"Amazon reported a 25% year-over-year increase in Q4 profits, surpassing analysts' expectations.",2,positive,synthetic,mistral:7b
+Q3 earnings report reveals a 12% increase in profit for TechCo.,2,positive,synthetic,mistral:7b
+Q3 earnings report shows a 15% profit increase for XYZ Corporation.,2,positive,synthetic,mistral:7b
+"Q3 earnings report reveals a 15% revenue growth for XYZ Corp., surpassing market expectations.",2,positive,synthetic,mistral:7b
+Shares of TechCorp surge 10% after Q2 results reveal a 30% year-over-year revenue growth and an impressive $500 million profit increase.,2,positive,synthetic,mistral:7b
+"Q2 earnings report shows a 15% revenue growth for TechCorp, exceeding analyst expectations.",2,positive,synthetic,mistral:7b
+"Tech giant Amazon reported a 30% increase in Q1 profits, surpassing analyst expectations.",2,positive,synthetic,mistral:7b
+"Q3 earnings report reveals a 15% year-over-year revenue growth for TechCorp, outperforming analyst expectations.",2,positive,synthetic,mistral:7b
+"Tech giant reports Q2 earnings that surpass expectations, driven by robust sales in cloud services.",2,positive,synthetic,mistral:7b
+"Apple reports Q4 earnings, posting a 12% increase in profits due to robust iPhone sales.",2,positive,synthetic,mistral:7b
+Stock prices soar as Q3 earnings report shows a 15% profit increase for TechGiant Inc.,2,positive,synthetic,mistral:7b
+Q3 earnings report reveals a 12% year-on-year increase in profit for tech giant XYZ Corporation.,2,positive,synthetic,mistral:7b
+IBM posts a 12% year-over-year increase in Q3 earnings.,2,positive,synthetic,mistral:7b
+"Tech giant reports Q3 earnings beating estimates by 15%, driving a 6% increase in share price.",2,positive,synthetic,mistral:7b
+Stock prices surge after Q3 earnings report reveals a 15% increase in profits.,2,positive,synthetic,mistral:7b
+Q3 earnings report reveals a 12% year-over-year profit increase for tech giant XYZ.,2,positive,synthetic,mistral:7b
+"Q3 earnings exceed expectations, marking a 15% year-over-year increase for technology giant, ABC Corp.",2,positive,synthetic,mistral:7b
+Shares in TechCo Inc. surged 10% today after reporting a 25% increase in Q3 profits.,2,positive,synthetic,mistral:7b
+Q3 earnings report reveals a 15% year-on-year profit increase for tech giant Amazon.,2,positive,synthetic,mistral:7b
+IBM's Q4 earnings report reveals a 12% year-over-year profit increase.,2,positive,synthetic,mistral:7b
+"Tech giant Microsoft reports a 15% increase in Q4 profits, surpassing analyst expectations.",2,positive,synthetic,mistral:7b
+Stock prices surged today following a strong Q3 earnings report that showed a 15% profit increase for XYZ Corp.,2,positive,synthetic,mistral:7b
+"Apple reports Q3 earnings, beating analyst expectations with a 12% year-over-year revenue growth.",2,positive,synthetic,mistral:7b
+"Q4 earnings report shows a 15% profit increase for Technology Inc., exceeding analysts' expectations.",2,positive,synthetic,mistral:7b
+"Q3 earnings report reveals a 15% increase in profits for TechCorp, surpassing analyst expectations.",2,positive,synthetic,mistral:7b
+Q3 earnings report reveals a 15% year-on-year revenue growth for TechCorp.,2,positive,synthetic,mistral:7b
+Q4 earnings report reveals a 12% year-over-year profit increase for tech giant XYZ Corp.,2,positive,synthetic,mistral:7b
+"Q3 earnings report reveals a 12% revenue growth for TechCorp, surpassing analyst estimates.",2,positive,synthetic,mistral:7b
+"Stock prices surged following Q3 earnings report, revealing a 15% year-over-year revenue growth for tech giant XYZ Corp.",2,positive,synthetic,mistral:7b
+"Stocks surge as tech giants report strong Q2 earnings, exceeding analysts' expectations.",2,positive,synthetic,mistral:7b
+"Q3 earnings report reveals a 12% year-over-year profit increase for TechGiant Inc., outpacing analyst expectations.",2,positive,synthetic,mistral:7b
+"Tech giant reports Q2 earnings exceeding expectations by 15%, marking a 20% year-over-year increase in profits.",2,positive,synthetic,mistral:7b
+Q3 earnings report reveals a 12% year-over-year increase in profits for TechGiant Inc.,2,positive,synthetic,mistral:7b
+Q4 earnings report reveals a 15% year-over-year profit increase for tech giant Apple Inc.,2,positive,synthetic,mistral:7b
+Q3 earnings report reveals a 15% revenue growth for tech giant Microsoft.,2,positive,synthetic,mistral:7b
+"Q3 earnings report shows a 15% profit increase for XYZ Corporation, surpassing analysts' expectations.",2,positive,synthetic,mistral:7b
+Stock prices soar after company reports Q3 earnings beating expectations by 10%.,2,positive,synthetic,mistral:7b
+"Shares in Technology Corp soar as Q3 earnings exceed expectations, posting a 15% year-over-year profit increase.",2,positive,synthetic,mistral:7b
+Tech giant Q4 earnings report reveals a 15% year-over-year increase in profits.,2,positive,synthetic,mistral:7b
+"Tech giant reports Q2 earnings beating analyst estimates by 10%, marking a 25% year-on-year revenue growth.",2,positive,synthetic,mistral:7b
+"Q4 earnings report reveals a 15% year-over-year revenue growth for Amazon, exceeding analysts' expectations.",2,positive,synthetic,mistral:7b
+Q3 earnings report reveals a 12% year-on-year revenue growth for Microsoft Corporation.,2,positive,synthetic,mistral:7b
+"Q3 earnings report shows a 12% profit increase for TechCorp, surpassing analyst expectations.",2,positive,synthetic,mistral:7b
+"Q3 earnings exceed expectations, reporting a 15% year-on-year increase in profits.",2,positive,synthetic,mistral:7b
+Tech giant Q4 earnings surge 25% due to strong consumer demand and successful product launches.,2,positive,synthetic,mistral:7b
+Q2 earnings report reveals a 15% profit increase for XYZ Corporation.,2,positive,synthetic,mistral:7b
+"Q3 earnings report reveals a 15% profit increase for TechCorp, surpassing analyst expectations.",2,positive,synthetic,mistral:7b
+"Q3 earnings report reveals a 15% year-over-year profit increase for XYZ Inc., exceeding analyst expectations.",2,positive,synthetic,mistral:7b
+"Q3 earnings report shows a 15% profit increase for TechCorp, surpassing analyst expectations.",2,positive,synthetic,mistral:7b
+Shares in TechCo soar after Q3 earnings reveal a 25% profit increase and optimistic outlook for the upcoming year.,2,positive,synthetic,mistral:7b
+"Q3 earnings reported a 15% year-over-year increase, surpassing analyst estimates and boosting investor confidence.",2,positive,synthetic,mistral:7b
+"Tech giant Amazon reported a 30% surge in Q2 profits, surpassing analysts' expectations.",2,positive,synthetic,mistral:7b
+"Q3 earnings report shows a 15% revenue growth for Technology Co., surpassing analysts' expectations.",2,positive,synthetic,mistral:7b
+"Shares in TechCorp surged 7% after reporting a 15% Q3 revenue growth, exceeding analysts' expectations.",2,positive,synthetic,mistral:7b
+"Tech giant Amazon reports a 15% increase in Q3 profits, driven by strong consumer demand and strategic expansion.",2,positive,synthetic,mistral:7b
+"Tech giant Q3 earnings surpass expectations, reporting a 20% year-on-year revenue growth.",2,positive,synthetic,mistral:7b
+"Q3 earnings reported a 12% year-over-year increase, surpassing analyst expectations.",2,positive,synthetic,mistral:7b
+"Q3 earnings report shows a 12% revenue growth for tech giant ABC, surpassing analysts' expectations.",2,positive,synthetic,mistral:7b
+Q3 earnings report reveals a 15% profit increase for tech giant ABC.,2,positive,synthetic,mistral:7b
+Shares of TechFirm Inc. surge after Q2 earnings report reveals a 15% revenue growth and a 20% increase in profits.,2,positive,synthetic,mistral:7b
+Shares of XYZ Corp surge 10% after Q3 earnings report reveals a 25% year-over-year revenue growth and a 30% increase in profits.,2,positive,synthetic,mistral:7b
+Stock prices soar as technology giant reports a 15% quarterly profit increase.,2,positive,synthetic,mistral:7b
+"Q3 earnings report reveals a 15% profit increase for TechCorp, surpassing analyst expectations.",2,positive,synthetic,mistral:7b
+Q4 earnings report reveals a 15% year-over-year increase in profits for XYZ Corporation.,2,positive,synthetic,mistral:7b
+"Shares of XYZ Corporation surged 6% after posting a 15% revenue growth in Q2, beating analysts' expectations.",2,positive,synthetic,mistral:7b
+"Tech giant Q3 earnings reveal a 15% profit increase, surpassing analyst expectations.",2,positive,synthetic,mistral:7b
+"Q3 earnings report shows a 15% profit increase for XYZ Corporation, surpassing analysts' expectations.",2,positive,synthetic,mistral:7b
+"Q3 earnings report reveals a 15% profit increase for XYZ Inc., surpassing analyst expectations.",2,positive,synthetic,mistral:7b
+"Q3 earnings report reveals a 15% year-on-year revenue growth for tech giant, exceeding analyst expectations.",2,positive,synthetic,mistral:7b
+Q3 earnings report shows a 15% increase in profits for tech giant Microsoft.,2,positive,synthetic,mistral:7b
+"Tech giant Amazon reported a 20% year-over-year increase in Q3 profits, surpassing analyst estimates.",2,positive,synthetic,mistral:7b
+Tech giant Q2 earnings report reveals a 15% year-on-year revenue growth.,2,positive,synthetic,mistral:7b
+"Tech giant Q3 earnings exceed expectations by 10%, driven by strong demand for cloud services and innovative product launches.",2,positive,synthetic,mistral:7b
+"Tech giant Q2 earnings exceed expectations by 15%, boosting investor confidence and driving a 7% surge in its share price.",2,positive,synthetic,mistral:7b
+"Q4 earnings report reveals a 15% profit increase for TechCo, surpassing analyst expectations.",2,positive,synthetic,mistral:7b
+Q3 earnings report shows a 12% year-over-year increase in profit for Microsoft Corporation.,2,positive,synthetic,mistral:7b
+"Q3 earnings report reveals a 15% profit increase for Technology Inc., exceeding analysts' expectations.",2,positive,synthetic,mistral:7b
+Q3 earnings report shows a 15% increase in profits for tech giant XYZ.,2,positive,synthetic,mistral:7b
+Q3 earnings report shows a 15% profit increase for XYZ Corporation.,2,positive,synthetic,mistral:7b
+Shares in TechCorp surge 10% after Q2 results show a 35% increase in net profit.,2,positive,synthetic,mistral:7b
+Q3 earnings report reveals a 15% profit increase for tech giant Microsoft.,2,positive,synthetic,mistral:7b
+Q3 earnings report reveals a 12% year-on-year profit increase for tech giant Microsoft.,2,positive,synthetic,mistral:7b
+"Apple reports a 12% increase in Q4 earnings, surpassing market expectations.",2,positive,synthetic,mistral:7b
+"Tech giant reports Q2 earnings beating expectations, driven by a 15% surge in quarterly revenues.",2,positive,synthetic,mistral:7b
+"Tech giant reports Q3 earnings surpassing expectations by 10%, driving a 5% increase in its stock price.",2,positive,synthetic,mistral:7b
+"Q3 earnings report reveals a 15% year-on-year revenue growth for TechCorp, surpassing analyst estimates.",2,positive,synthetic,mistral:7b
+"Q3 earnings report shows a 15% profit increase for XYZ Inc., beating analysts' expectations.",2,positive,synthetic,mistral:7b
+"Tech giant Amazon reports a 25% surge in Q3 profits, exceeding analysts' expectations.",2,positive,synthetic,mistral:7b
+"Q3 earnings report reveals a 15% increase in profits for XYZ Inc., beating analyst expectations.",2,positive,synthetic,mistral:7b
+Q2 earnings report reveals a 15% year-over-year increase in profit for XYZ Corp.,2,positive,synthetic,mistral:7b
+Q3 earnings report shows a 12% year-over-year increase in net profit for TechCo.,2,positive,synthetic,mistral:7b
+Stock prices surged as Q3 earnings exceeded analyst expectations.,2,positive,synthetic,mistral:7b
+"Q3 earnings report shows a 15% profit increase for tech giant XYZ, exceeding analyst expectations.",2,positive,synthetic,mistral:7b
+"Shares of TechCorp Inc. surged 10% today after reporting a 25% increase in Q3 profits, exceeding analyst expectations.",2,positive,synthetic,mistral:7b
+"Q2 earnings reported a 15% increase, surpassing analysts' expectations.",2,positive,synthetic,mistral:7b
+"Company X announces a 15% rise in Q2 profits, beating analyst expectations and boosting investor confidence.",2,positive,synthetic,mistral:7b
+Q4 earnings report reveals a 15% year-over-year increase in profit for tech giant XYZ Corporation.,2,positive,synthetic,mistral:7b
+"Tech giant reports Q2 earnings exceeding estimates, fueling a 10% stock rally.",2,positive,synthetic,mistral:7b
+Q3 earnings report shows a 12% year-over-year increase in profits for tech giant Microsoft.,2,positive,synthetic,mistral:7b
+Q3 earnings report shows a 15% profit increase for TechCo compared to the same quarter last year.,2,positive,synthetic,mistral:7b
+"Tech giant Google reports a 15% Q3 earnings growth, surpassing analyst expectations.",2,positive,synthetic,mistral:7b
+"Microsoft reports Q3 earnings, beating analysts' expectations by 10 cents per share, driving a 5% rise in after-hours trading.",2,positive,synthetic,mistral:7b
+"Q3 earnings report shows a 12% increase in profits for Technology Inc., surpassing analyst expectations.",2,positive,synthetic,mistral:7b
+"Tech giant Q3 earnings report reveals a 15% increase in profits, exceeding analyst expectations.",2,positive,synthetic,mistral:7b
+Stock prices surge as Q3 earnings report reveals a 20% profit increase for XYZ Corporation.,2,positive,synthetic,mistral:7b
+Q3 earnings report shows a 15% profit increase for XYZ Corporation.,2,positive,synthetic,mistral:7b
+"Q3 earnings report reveals a 12% profit increase for XYZ Corporation, exceeding analysts' expectations.",2,positive,synthetic,mistral:7b
+Q3 earnings report reveals a 15% year-on-year profit increase for technology giant XYZ Inc.,2,positive,synthetic,mistral:7b
+Q3 earnings report shows a 15% revenue growth for tech giant XYZ Corporation.,2,positive,synthetic,mistral:7b
+Shares of Technology Inc. rallied 6% following Q3 earnings report revealing a 15% year-over-year revenue growth and $0.12 per share earnings beat.,2,positive,synthetic,mistral:7b
+"Amazon reports Q2 earnings beating expectations by 15%, driven primarily by strong sales in cloud services and digital media.",2,positive,synthetic,mistral:7b
+"Q4 earnings report reveals a 15% profit increase for TechCorp, surpassing analysts' expectations.",2,positive,synthetic,mistral:7b
+"Q4 earnings surpass expectations, with a 15% revenue growth and a 20% profit increase reported by tech giant XYZ.",2,positive,synthetic,mistral:7b
+"Q4 earnings report shows a 15% revenue growth for TechCorp, surpassing analyst expectations.",2,positive,synthetic,mistral:7b
+"Tech giant reports Q2 earnings that surpassed analyst expectations, driving a 4% increase in share price.",2,positive,synthetic,mistral:7b
+"Tech giant reports Q2 earnings exceeding analyst estimates by 15%, driven by strong consumer demand and strategic product launches.",2,positive,synthetic,mistral:7b
+"Tech giant Amazon reports a 20% surge in Q3 profits, exceeding analysts' expectations.",2,positive,synthetic,mistral:7b
+Shares of TechCorp surge 10% after announcing a 25% increase in Q3 revenues.,2,positive,synthetic,mistral:7b
+"Tech giant Q2 earnings surpass expectations by 10%, fueling a 6% stock rally and optimism among investors.",2,positive,synthetic,mistral:7b
+"Q3 earnings report shows a 15% profit increase for TechCorp, surpassing analysts' expectations.",2,positive,synthetic,mistral:7b
+"Tech giant reports Q3 earnings beating analyst estimates by 10%, driving a 7% surge in after-hours trading.",2,positive,synthetic,mistral:7b
+Q4 earnings report reveals a 15% year-over-year profit increase for technology giant XYZ Inc.,2,positive,synthetic,mistral:7b
+"Tech giant Q4 earnings beat expectations by 10%, driven by strong demand for cloud services and a successful product launch.",2,positive,synthetic,mistral:7b
+"Tech giant reports Q2 earnings beating analyst expectations by 15%, driving a 7% surge in after-hours trading.",2,positive,synthetic,mistral:7b
+Q3 earnings reveal a 15% profit increase for tech giant Microsoft.,2,positive,synthetic,mistral:7b
+Q4 earnings report shows a 15% year-on-year revenue growth for tech giant XYZ.,2,positive,synthetic,mistral:7b
+Q3 earnings report reveals a 15% year-over-year profit increase for technology giant Microsoft.,2,positive,synthetic,mistral:7b
+Q3 earnings report reveals a 15% year-on-year revenue growth for XYZ Corporation.,2,positive,synthetic,mistral:7b
+"Tech giant reports a 15% year-over-year increase in Q2 profits, exceeding analyst expectations.",2,positive,synthetic,mistral:7b
+Q4 earnings reveal a 12% year-over-year profit increase for tech giant XYZ Corp.,2,positive,synthetic,mistral:7b
+"Q3 earnings report reveals a 15% increase in profits for XYZ Corporation, surpassing analysts' expectations.",2,positive,synthetic,mistral:7b
+Tech giant Amazon reports Q3 earnings surpassing analysts' expectations by 15%.,2,positive,synthetic,mistral:7b
+"Tech giant Amazon reports a 25% surge in Q3 profits, exceeding analysts' expectations.",2,positive,synthetic,mistral:7b
+"Q4 earnings report reveals a 15% increase in profits for TechCorp, surpassing analysts' expectations.",2,positive,synthetic,mistral:7b
+"Tech giant Q3 earnings surpass expectations by 15%, driven by robust demand for its cloud services.",2,positive,synthetic,mistral:7b
+Stock prices for Tech giant XYZ soar after Q4 earnings report reveals a 20% revenue growth and a 35% profit increase compared to the same period last year.,2,positive,synthetic,mistral:7b
+"Q3 earnings report shows a 15% profit increase for XYZ Corporation, surpassing analysts' expectations.",2,positive,synthetic,mistral:7b
+"Tech giant Amazon reports a 25% year-on-year increase in Q4 profits, surpassing analysts' expectations.",2,positive,synthetic,mistral:7b
+"Amazon reported a 20% year-over-year increase in Q4 revenues, exceeding analyst expectations.",2,positive,synthetic,mistral:7b
+"Tech giant Amazon reports a 25% year-over-year increase in Q3 profits, surpassing analyst expectations.",2,positive,synthetic,mistral:7b
+"Tech giant Q4 earnings exceed expectations, posting a 15% revenue growth and an impressive 20% profit increase.",2,positive,synthetic,mistral:7b
+"Tech giant reports a 15% quarterly revenue growth, surpassing market expectations.",2,positive,synthetic,mistral:7b
+"Tech giant Amazon reported a 25% year-on-year increase in Q3 net income, beating analysts' expectations.",2,positive,synthetic,mistral:7b
+Stocks rallied after earnings report revealed a 15% profit increase for Q2.,2,positive,synthetic,mistral:7b
+Q3 earnings report shows a 15% increase in profit for XYZ Corporation.,2,positive,synthetic,mistral:7b
+"Q3 earnings report shows a 15% profit increase for TechCorp, exceeding analyst expectations.",2,positive,synthetic,mistral:7b
+"Q3 earnings report shows a 15% profit increase for TechCo, surpassing analysts' expectations.",2,positive,synthetic,mistral:7b
+"Q3 earnings report shows a 15% revenue growth for TechCo, surpassing analysts' expectations.",2,positive,synthetic,mistral:7b
+Q3 earnings report reveals a 15% year-on-year revenue growth for technology giant XYZ Corp.,2,positive,synthetic,mistral:7b
+"Tech giant Microsoft announces a 15% increase in Q3 profits, beating analysts' expectations.",2,positive,synthetic,mistral:7b
+"Q3 earnings reveal a 15% revenue growth for tech giant XYZ, exceeding analyst estimates.",2,positive,synthetic,mistral:7b
+Q2 earnings report reveals a 15% year-on-year revenue growth for tech giant Microsoft.,2,positive,synthetic,mistral:7b
+Q3 earnings report reveals a 15% profit increase for tech giant Amazon.,2,positive,synthetic,mistral:7b
+"Shares of TechCorp surged 7% after announcing a 10% increase in Q3 profits, beating analysts' expectations.",2,positive,synthetic,mistral:7b
+Tech giant Q3 earnings report reveals a 15% profit increase compared to last year.,2,positive,synthetic,mistral:7b
+Q3 earnings report reveals a 15% year-on-year revenue growth for technology giant Microsoft.,2,positive,synthetic,mistral:7b
+"Amazon reports a 20% increase in Q3 profits, exceeding analysts' expectations.",2,positive,synthetic,mistral:7b
+"Q4 earnings report shows a 15% profit increase for tech giant Alphacorp, surpassing analyst expectations.",2,positive,synthetic,mistral:7b
+Q4 earnings report reveals a 15% profit increase for tech giant Microsoft.,2,positive,synthetic,mistral:7b
+"Microsoft reports a 15% year-over-year increase in Q3 revenues, surpassing analyst expectations.",2,positive,synthetic,mistral:7b
+"Q3 earnings show a 15% revenue growth for tech giant XYZ Corp., exceeding analyst expectations.",2,positive,synthetic,mistral:7b
+"Q3 earnings report shows a 15% profit increase for TechCorp, exceeding analysts' expectations.",2,positive,synthetic,mistral:7b
+"Q3 earnings report shows a 15% increase in profit for XYZ Corp, beating analyst expectations.",2,positive,synthetic,mistral:7b
+"Q3 earnings report reveals a 15% profit increase for XYZ Corporation, outperforming analyst expectations.",2,positive,synthetic,mistral:7b
+"Q3 earnings report shows a 12% year-over-year revenue growth for TechCorp, surpassing analyst expectations.",2,positive,synthetic,mistral:7b
+Stock prices plummeted after the company issued a profit warning due to unexpected supply chain disruptions.,0,negative,synthetic,mistral:7b
+"XYZ Corporation issues a profit warning, predicting a 15% decline in Q2 earnings due to supply chain disruptions.",0,negative,synthetic,mistral:7b
+Stock prices for XYZ Corporation plummeted after the company issued a profit warning for Q3 2022.,0,negative,synthetic,mistral:7b
+Caterpillar Inc. announced a 10% decline in Q3 revenues due to weak demand in the construction sector.,0,negative,synthetic,mistral:7b
+Company X announces a 10% revenue decline in Q3 due to lower demand for its products.,0,negative,synthetic,mistral:7b
+Q3 earnings report reveals a 15% decline in revenue for TechCo compared to the same period last year.,0,negative,synthetic,mistral:7b
+IBM issues a profit warning due to lower-than-expected demand in its technology division.,0,negative,synthetic,mistral:7b
+Global tech giant announces a 15% decrease in Q2 profits due to increased competition and rising production costs.,0,negative,synthetic,mistral:7b
+Stock prices for TechCorp dropped significantly following the announcement of a $50 million quarterly loss.,0,negative,synthetic,mistral:7b
+Profit warning issued by tech giant due to lower-than-expected demand for its new product line.,0,negative,synthetic,mistral:7b
+Shares in XYZ Corporation plummeted 15% after announcing a disappointing Q3 revenue decline and lowering full-year guidance.,0,negative,synthetic,mistral:7b
+Company X announces a 15% decline in Q2 revenues compared to the same period last year.,0,negative,synthetic,mistral:7b
+Company XYZ announces a 10% reduction in its Q2 profits due to supply chain disruptions.,0,negative,synthetic,mistral:7b
+"Pharmaceutical giant Pfizer announces a 10% decline in Q2 revenues, citing supply chain disruptions as the main cause.",0,negative,synthetic,mistral:7b
+"Profit warnings issued by tech giant send shares plummeting, causing investor concerns about the company's financial health.",0,negative,synthetic,mistral:7b
+Major tech company issues a profit warning due to unexpected economic headwinds and reduced demand for its products.,0,negative,synthetic,mistral:7b
+Shares in XYZ Corporation plummeted 15% after announcing a surprise Q3 loss and revised full-year profit outlook.,0,negative,synthetic,mistral:7b
+"Q3 earnings report shows a 12% revenue decline for XYZ Corporation, missing analyst expectations.",0,negative,synthetic,mistral:7b
+"ABC Corporation issues a profit warning, citing unexpected supply chain disruptions as the main reason for the anticipated revenue shortfall.",0,negative,synthetic,mistral:7b
+Shares of XYZ Corp plummeted 10% after missing quarterly earnings expectations by a wide margin.,0,negative,synthetic,mistral:7b
+Q2 profits for TechCorp plummeted 15% due to weaker demand and increased operational costs.,0,negative,synthetic,mistral:7b
+Shares in XYZ Corporation dropped 10% today following a surprise profit warning from the company.,0,negative,synthetic,mistral:7b
+Stock prices for TechCorp plummeted 15% after the company announced a quarterly revenue miss and lowered its full-year outlook.,0,negative,synthetic,mistral:7b
+"Company X announces a 10% revenue decline in Q2, citing supply chain disruptions as the main reason.",0,negative,synthetic,mistral:7b
+"Tech giant IBM announces a 6% revenue decline in Q3, missing analyst expectations and causing share prices to dip 5%.",0,negative,synthetic,mistral:7b
+"Q3 profits at XYZ Corp miss expectations by 15%, causing a 7% drop in its share price after market close.",0,negative,synthetic,mistral:7b
+Stock prices for TechCorp plummeted 15% after missing quarterly earnings targets by a significant margin.,0,negative,synthetic,mistral:7b
+"Tech giant XYZ issues a profit warning, citing unexpected challenges in the second quarter and revising its full-year outlook downward.",0,negative,synthetic,mistral:7b
+Stock prices plummeted after the company issued a profit warning for the third quarter.,0,negative,synthetic,mistral:7b
+"Company X announces a 15% revenue decline in Q2, missing analysts' expectations.",0,negative,synthetic,mistral:7b
+Shares in TechCorp plummeted by 15% after the company issued a profit warning for Q3 due to unexpected operational challenges.,0,negative,synthetic,mistral:7b
+"Company X announces a 15% revenue decline for Q2, citing supply chain disruptions as the main cause.",0,negative,synthetic,mistral:7b
+"Tech giant XYZ issues a profit warning for Q3, citing unexpected headwinds in the global market.",0,negative,synthetic,mistral:7b
+Shares in TechCorp plummet 10% after announcing a third-quarter revenue decline and downgrading full-year earnings expectations.,0,negative,synthetic,mistral:7b
+"Company X announces a significant revenue decline in Q3, missing analyst expectations and causing a 12% drop in its stock price.",0,negative,synthetic,mistral:7b
+"Company X announces a 15% decline in Q3 revenues, missing analyst expectations and causing a 6% drop in its stock price.",0,negative,synthetic,mistral:7b
+"Revenue for Q3 fell 10% short of expectations, leading to a significant profit warning from TechCo.",0,negative,synthetic,mistral:7b
+"Company X announced a 15% drop in quarterly profits, citing economic uncertainties as the main cause.",0,negative,synthetic,mistral:7b
+Shares of XYZ Corp plummeted 10% after missing Q2 earnings targets and issuing a profit warning for the rest of the year.,0,negative,synthetic,mistral:7b
+Q4 earnings report reveals a 12% year-on-year revenue decline for tech giant XYZ Corporation.,0,negative,synthetic,mistral:7b
+"Q3 profits at XYZ Corp fell short of expectations, missing their earnings target by 10%.",0,negative,synthetic,mistral:7b
+"Major tech company issues a profit warning, citing unexpected headwinds in the fourth quarter.",0,negative,synthetic,mistral:7b
+Shares of XYZ Corporation dropped 12% in after-hours trading following a profit warning for the fourth quarter.,0,negative,synthetic,mistral:7b
+"Tech giant Amazon reports a surprise Q3 loss, missing earnings expectations by 12 cents per share.",0,negative,synthetic,mistral:7b
+"IBM issues a profit warning for Q2, citing slower-than-expected growth in cloud services.",0,negative,synthetic,mistral:7b
+"Shares in XYZ Corporation plummeted 10% after the company issued a profit warning for Q2, citing unexpected supply chain disruptions.",0,negative,synthetic,mistral:7b
+"Tech giant XYZ issues a profit warning, citing supply chain disruptions and increased competition as key factors.",0,negative,synthetic,mistral:7b
+"Swisspharma announces a 15% drop in Q3 profits, citing increased raw material costs and unfavorable exchange rates.",0,negative,synthetic,mistral:7b
+"Q3 profits for TechCorp miss expectations, causing a 10% drop in share price.",0,negative,synthetic,mistral:7b
+"Pharmaceutical giant Merck announces a 10% drop in Q3 profits, citing increased research and development costs.",0,negative,synthetic,mistral:7b
+Boeing announces a $2.5 billion fourth-quarter loss due to ongoing 737 MAX issues.,0,negative,synthetic,mistral:7b
+Global Tech Corp warns of a 15% drop in Q3 profits due to supply chain disruptions.,0,negative,synthetic,mistral:7b
+"Profit warnings issued by tech giant as Q2 results miss expectations, sending shares tumbling nearly 10% in after-hours trading.",0,negative,synthetic,mistral:7b
+Company X announces a 10% decrease in Q3 revenues compared to the same period last year.,0,negative,synthetic,mistral:7b
+"Shares in TechCorp plummet after announcing a 12% Q3 revenue decline, causing investor concern.",0,negative,synthetic,mistral:7b
+S&P Global Ratings lowers XYZ Corporation's credit rating due to concerns over mounting debt levels and declining profits.,0,negative,synthetic,mistral:7b
+"XYZ Corp's Q3 earnings fell 15% short of analyst expectations, sending shares down nearly 8% in after-hours trading.",0,negative,synthetic,mistral:7b
+"Profit warnings from tech giants send shockwaves through the market, as stocks plummet by over 10% in early trading.",0,negative,synthetic,mistral:7b
+Shares in XYZ Corp plummeted 10% after the company issued a profit warning for Q3 due to unexpected supply chain disruptions.,0,negative,synthetic,mistral:7b
+Shares in XYZ Corporation plummeted 15% after reporting a surprise Q3 loss and lowering full-year profit forecasts.,0,negative,synthetic,mistral:7b
+Q3 earnings report reveals a 15% decline in profits for technology giant XYZ Corporation.,0,negative,synthetic,mistral:7b
+Q2 profits at XYZ Corp miss expectations due to supply chain disruptions and increased raw material costs.,0,negative,synthetic,mistral:7b
+Company X warns investors of a 15% profit decline in Q3 due to unexpected market fluctuations.,0,negative,synthetic,mistral:7b
+Shares in TechCorp plummet 10% after the company issues a profit warning for Q3 due to lower-than-expected demand for its flagship product.,0,negative,synthetic,mistral:7b
+Shares in XYZ Corporation plummeted by 15% today following a disappointing Q3 earnings report and a subsequent profit warning.,0,negative,synthetic,mistral:7b
+IBM's Q4 earnings report showed a 5% revenue decline compared to analyst expectations.,0,negative,synthetic,mistral:7b
+IBM reports a 10% decrease in Q2 profits due to increased operating expenses and lower sales figures.,0,negative,synthetic,mistral:7b
+Shares in XYZ Corporation plummeted 10% after announcing a surprise Q3 revenue decline and lowering full-year profit forecasts.,0,negative,synthetic,mistral:7b
+Profit warnings issued by three major companies contribute to a significant drop in the stock market index today.,0,negative,synthetic,mistral:7b
+"Profit warning issued by tech giant as Q3 revenues disappoint, falling short of analyst expectations.",0,negative,synthetic,mistral:7b
+Stock prices for XYZ Inc. plummeted after the company issued a profit warning due to unexpected supply chain disruptions.,0,negative,synthetic,mistral:7b
+"Shares in TechCo plummeted 12% today following a disappointing Q3 earnings report, which fell short of analyst expectations.",0,negative,synthetic,mistral:7b
+Company X warns of a significant profit decline in Q2 due to supply chain disruptions and increased raw material costs.,0,negative,synthetic,mistral:7b
+Stock prices for TechCorp plummeted 12% after missing Q3 earnings estimates and issuing a profit warning.,0,negative,synthetic,mistral:7b
+"IBM issues a profit warning for Q3, citing lower-than-expected demand for its cloud services.",0,negative,synthetic,mistral:7b
+Stock prices for XYZ Corporation plummeted 10% after announcing a surprise Q2 loss.,0,negative,synthetic,mistral:7b
+"Tech giant XYZ issued a profit warning, citing unexpected headwinds in Q2 and lowering its full-year earnings forecast.",0,negative,synthetic,mistral:7b
+Shares in XYZ Corporation plummeted 12% after announcing a Q3 loss and revising full-year earnings expectations downward.,0,negative,synthetic,mistral:7b
+"Q3 profits at XYZ Corporation miss expectations, causing a 10% drop in share price.",0,negative,synthetic,mistral:7b
+"Q3 profits at XYZ Corporation miss expectations by 10%, prompting a sharp stock decline.",0,negative,synthetic,mistral:7b
+"Tech giant XYZ announces a 15% revenue decline in Q2, citing supply chain disruptions as the main culprit.",0,negative,synthetic,mistral:7b
+"Shares of TechFusion plummeted 10% after the company issued a surprise profit warning for Q2, citing supply chain disruptions as the main cause.",0,negative,synthetic,mistral:7b
+Tech giant announces 10% workforce reduction due to quarterly revenue miss.,0,negative,synthetic,mistral:7b
+"Company X announces a 15% decline in Q2 revenues, missing analyst expectations and sending shares down 8% in after-hours trading.",0,negative,synthetic,mistral:7b
+Tech giant Microsoft announces a 10% cut in its workforce due to declining revenues in the fourth quarter.,0,negative,synthetic,mistral:7b

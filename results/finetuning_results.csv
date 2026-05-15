@@ -1,0 +1,2 @@
+llm,variant,ratio,train_size,loss,accuracy,f1_macro,f1_weighted,precision_macro,recall_macro,runtime,samples_per_second,steps_per_second,epoch
+-,baseline_full,0pct,2758,0.2878,0.9174,0.893,0.9169,0.9033,0.8836,17.419,39.612,0.631,4.0
