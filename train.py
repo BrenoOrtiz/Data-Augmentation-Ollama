@@ -1,6 +1,7 @@
 import logging
 
 from config import RESULTS_DIR
+from src.analysis.stats import main as run_stats
 from src.training.pipeline import run_finetuning_pipeline
 
 
@@ -28,6 +29,11 @@ def main() -> None:
     if not summary_df.empty:
         print("\n" + summary_df.to_string(index=False) + "\n")
     logger.info("Results → %s", RESULTS_DIR)
+
+    logger.info("\n%s", "=" * 70)
+    logger.info("Step 3: Computing summary statistics")
+    logger.info("%s", "=" * 70)
+    run_stats()
 
 
 if __name__ == "__main__":
