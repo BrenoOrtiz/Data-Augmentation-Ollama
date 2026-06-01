@@ -27,13 +27,14 @@ Avalia o impacto de dados sintéticos gerados por LLMs locais no desempenho de u
 
 O experimento simula cenários de escassez de dados removendo uma fração do conjunto de treino e substituindo-a por amostras sintéticas geradas via Ollama, mantendo o tamanho total do dataset constante. Em seguida, treina o TinyBERT em cada variante e compara as métricas contra um baseline treinado com o dataset real completo.
 
-**N LLMs** × **3 cenários** geram datasets de treino augmentados:
+**N LLMs** × **4 cenários** geram datasets de treino augmentados:
 
 | Cenário | Dados reais | Dados sintéticos |
 |---------|-------------|-----------------|
 | 10%     | 90% de N    | 10% de N        |
 | 25%     | 75% de N    | 25% de N        |
 | 50%     | 50% de N    | 50% de N        |
+| 75%     | 25% de N    | 75% de N        |
 
 **Modelos Ollama suportados** (configuráveis em `config.py`):
 - `llama3.1:latest`
@@ -94,7 +95,7 @@ Total: **1 baseline + (LLMs × ratios × 2 variantes) runs de fine-tuning**, tod
 │   │   ├── train_full.csv         # Train completo após split
 │   │   └── test.csv               # Test fixo (nunca augmentado)
 │   └── generated/<modelo>/        # Saída da Etapa 1
-├── models/<modelo>/<variant>/     # Pesos do TinyBERT treinado (Etapa 2)
+├── models/<modelo>/<variant>/     # Pesos do TinyBERT treinado — gerado ao rodar train.py
 ├── results/
 │   └── finetuning_results.csv     # Métricas de cada run
 └── src/
@@ -116,8 +117,9 @@ Total: **1 baseline + (LLMs × ratios × 2 variantes) runs de fine-tuning**, tod
 - `synthetic_only_<ratio>pct.csv` — apenas amostras sintéticas geradas
 - `augmentation_summary.csv` — resumo de todos os cenários
 
-**Saída da Etapa 2**:
-- `models/<modelo>/<variant>_<ratio>pct/model/` — TinyBERT fine-tuned + tokenizer
+**Saída da Etapa 2** (gerada ao rodar `train.py`):
+- `models/<modelo>/<variant>_<ratio>pct/model/` — TinyBERT fine-tuned + tokenizer, salvo após cada run
+- `models/baseline/full/model/` — TinyBERT treinado no dataset real completo (baseline)
 - `results/finetuning_results.csv` — métricas (accuracy, F1 macro/weighted, precision, recall) por run
 
 ---
@@ -191,7 +193,7 @@ Todas as configurações ficam em `config.py`:
 | Variável | Descrição | Padrão |
 |----------|-----------|--------|
 | `OLLAMA_MODELS` | Lista de modelos Ollama | llama3.1, mistral:7b, phi3.5 |
-| `AUGMENTATION_RATIOS` | Cenários de augmentation | [0.10, 0.25, 0.50] |
+| `AUGMENTATION_RATIOS` | Cenários de augmentation | [0.10, 0.25, 0.50, 0.75] |
 | `TEST_SIZE` | Fração reservada para teste | 0.20 |
 | `SEED` | Semente de reprodutibilidade | 42 |
 | `TEMPERATURE` | Temperatura de geração | 0.8 |

@@ -151,17 +151,10 @@ MODELOS TREINADOS
 
 models/baseline/full/model/
     TinyBERT ajustado no conjunto de treino real completo (train_full.csv).
-    Serve como baseline de limite superior. Contém model.safetensors,
-    config.json, tokenizer.json, tokenizer_config.json e training_args.bin.
+    Serve como baseline de limite superior. Gerado automaticamente ao rodar
+    train.py. Contém model.safetensors, config.json, tokenizer.json,
+    tokenizer_config.json e training_args.bin.
 
-models/<llm_slug>/<variante>_<razão>pct/model/
-    TinyBERT ajustado para uma combinação específica (LLM x variante x razão).
-    <variante> é "augmented" (aumentado) ou "restricted" (restrito). Mesma
-    estrutura de arquivos do diretório do modelo baseline. Nota: apenas um
-    subconjunto de todos os modelos treinados pode estar presente no material
-    entregue por restrições de armazenamento. O conjunto completo de métricas
-    para todas as execuções está registrado em results/finetuning_results.csv
-    independentemente da disponibilidade dos modelos.
 
 ================================================================================
 RESULTADOS
