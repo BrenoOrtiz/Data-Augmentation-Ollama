@@ -15,7 +15,7 @@ OLLAMA_MODELS = [
 # synthetic data is ADDED back, so the total dataset size stays constant:
 #   real = (1 - ratio) * N  |  synthetic = ratio * N  |  total = N
 # ---------------------------------------------------------------------------
-AUGMENTATION_RATIOS = [0.10, 0.25, 0.50]
+AUGMENTATION_RATIOS = [0.10, 0.25, 0.50, 0.75]
 
 # ---------------------------------------------------------------------------
 # Train / test split
